@@ -40,7 +40,7 @@ US NSF's XSEDE and the European Grid Infrastructure.
 Gregor von Laszewski
 --------------------
 
-.. figure:: http://spidal.org/laszewski.jpg
+.. figure:: images/bio/laszewski.jpg
    :alt: picture gregor
    :width: 100
 
@@ -61,7 +61,7 @@ the areas of cloud computing.
 
 Judy Qiu
 --------
-.. figure:: http://spidal.org/Images/xqiu.jpg
+.. figure:: images/bio/xqiu.jpg
    :alt: picture judy
    :width: 100
 
@@ -78,7 +78,7 @@ Teaching Excellence in 2013-2014.
 
 Madhav V. Marathe
 -----------------
-.. figure:: http://spidal.org/Images/marathe.jpg
+.. figure:: images/bio/marathe.jpg
    :alt: picture madhav marathe
    :width: 100
 
@@ -97,7 +97,7 @@ socio-technical networks.
 
 David Crandall
 --------------
-.. figure:: http://spidal.org/crandall.jpg
+.. figure:: images/bio/crandall.jpg
    :alt: picture david crandall
    :width: 100
 
@@ -120,7 +120,7 @@ biomolecules, in particular membrane proteins, at the molecular level.
 
 Fusheng Wang
 ------------
-.. figure:: http://spidal.org/wang.jpg
+.. figure:: images/bio/wang.png
    :alt: picture fusheng wang
    :width: 100
 
@@ -142,7 +142,7 @@ systems.
 
 Jun Kong
 --------
-.. figure:: http://spidal.org/kong.jpg
+.. figure:: images/bio/kong.jpg
    :alt: picture Jun Kong
    :width: 100
 
@@ -158,7 +158,7 @@ well as co-advise graduate students on image algorithm development.
 
 Andre Luckow
 -------------
-.. figure:: http://spidal.org/luckow.jpg
+.. figure:: images/bio/luckow.jpg
    :alt: picture andre luckow
    :width: 100
 
@@ -169,7 +169,7 @@ tolerance, computational sciences and programming languages.
 
 Ioannis Paraskevakos
 --------------------
-.. figure:: http://spidal.org/ioannis.jpg
+.. figure:: images/bio/ioannis.png
    :alt: picture ioannis paraskevakos
    :width: 100
 
@@ -182,7 +182,7 @@ Semiconductor Company in Greece.
 
 John Paden
 ----------
-.. figure:: http://spidal.org/paden.jpg
+.. figure:: images/bio/paden.jpg
    :alt: picture john paden
    :width: 100
 
@@ -196,7 +196,7 @@ data analysis and interpretation from these systems.
 
 Theresa Stumpf
 --------------
-.. figure:: http://spidal.org/stumpf.jpg
+.. figure:: images/bio/stumpf.jpg
    :alt: picture theresa stumpf
    :width: 100
 
@@ -208,7 +208,7 @@ Ice Sheets (CReSIS).
 
 Maleq Khan
 ----------
-.. figure:: http://spidal.org/Khan.jpg
+.. figure:: images/bio/khan.jpg
    :alt: picture maleq khan
    :width: 100
 
