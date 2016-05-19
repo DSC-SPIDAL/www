@@ -2,10 +2,10 @@ Spidal
 ======
 
 Architecture
--------------
+------------
 
 General Study of Big Data Applications
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 As part of our research into Big Data and its potential benchmarks, we
 have gone about collecting relevant applications and their features, the
@@ -26,7 +26,7 @@ NASA applications.
 
 
 General Analysis of Features of Big Data Applications
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Through persistent research in this area we have identified around 50
 salient features of Big Data (Ogres) and divided them into four views or
@@ -47,7 +47,7 @@ Ogre Problem Architecture Classification.
 
 
 General Big Data Application Activity Further/Ongoing work
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 #. Understand Public comments on NIST Collection
 #. Accumulate further examples (part of NIST Public Working Group)
@@ -56,7 +56,7 @@ General Big Data Application Activity Further/Ongoing work
 
 
 Spidal Kernels
-----------------------------------------------------------------------
+--------------
 
 This work refines and exemplifies the Ogre facets, which include core
 machine learning and other kernels, as well as those related to data
@@ -101,10 +101,10 @@ SPIDAL Kernels Big Data Benchmarking Further/Ongoing work:
 * Consider implications of GPUs and Xeon Phi “Knights landing”
 
 SPIDAL Communities
-----------------------------------------------------------------------
+------------------
 
 Remote Sensing -- Kansas
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^
 The images below display Kansas radar images measuring glacier beds with
 results of new machine learning algorithms identifying the top (red) and
 bottom (green) of the glaciers. Results of earlier work are labelled as
@@ -120,7 +120,7 @@ bottom (green) of the glaciers. Results of earlier work are labelled as
 
 
 Pathology Informatics – Stony Brook University
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Digital pathology images or whole slide images are generated through
 scanning human tissue specimens with high resolution microscope
 scanners. Examination of high resolution whole slide images enables more
@@ -139,7 +139,7 @@ different image analysis algorithms with HPC-ABDS.
   
 .. |26 Feature Template| image:: http://spidal.org/spidal/template26.png
 .. |6 Ogres| image:: http://spidal.org/spidal/ogre6.png
-.. |Glacier Readings| image:: http://spidal.org/spidal/glaciers.png
+.. |Glacier Readings| image:: source/images/figures/glaciers.jpg
 .. |4Views| image:: http://spidal.org/spidal/x-y-ogre.png
 .. |Ogre Facet Benchmark List| image:: http://spidal.org/spidal/algorithm.png
 
