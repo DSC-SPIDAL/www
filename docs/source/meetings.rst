@@ -47,7 +47,7 @@ video: http://spidal.org/Videos/Kong\_7\_24\_2015/Kong\_7\_24\_2015.mp4
 
 Computer Vision Meets  
 High-Performance Computing, 8/14/2015
---------------------------------------------------------
+---------------------------------------------------------------------
 Presenter: David Crandall, Indiana University
 pdf slides
 `here <http://spidal.org/vision-dibbs2.pdf>`__
