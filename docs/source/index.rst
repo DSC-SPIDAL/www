@@ -32,19 +32,20 @@ different views and their corresponding facets.
 
    Spidal Dimensions
 
-
 ----------------------------------------------------------------------
 
 Contents:
 
 .. toctree::
-   :maxdepth: 1
+:maxdepth: 1
 
-   members
-   meetings
-   spidal
-   midas
-   research
-   software
-   bib
+       members
+       meetings
+       spidal
+       midas
+       research
+       software
+       bib
+
+
    
