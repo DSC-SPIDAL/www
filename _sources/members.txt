@@ -120,7 +120,7 @@ biomolecules, in particular membrane proteins, at the molecular level.
 
 Fusheng Wang
 ------------
-.. figure:: images/bio/wang.png
+.. figure:: images/bio/wang.jpg
    :alt: picture fusheng wang
    :width: 100
 
@@ -157,7 +157,7 @@ of pathology image analysis algorithms for both 2D and 3D images, as
 well as co-advise graduate students on image algorithm development.
 
 Andre Luckow
--------------
+------------
 .. figure:: images/bio/luckow.jpg
    :alt: picture andre luckow
    :width: 100
@@ -169,7 +169,7 @@ tolerance, computational sciences and programming languages.
 
 Ioannis Paraskevakos
 --------------------
-.. figure:: images/bio/ioannis.png
+.. figure:: images/bio/ioannis.jpg
    :alt: picture ioannis paraskevakos
    :width: 100
 
