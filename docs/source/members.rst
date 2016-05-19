@@ -5,7 +5,7 @@ Geoffrey Fox
 ------------
 .. figure:: images/bio/fox.jpg
    :alt: picture geoffrey
-   :scale: 50
+   :width: 100
 
 Geoffrey Fox received a Ph.D. in Theoretical Physics from Cambridge
 University and is now professor of Informatics and Computing, and
@@ -22,6 +22,7 @@ Shantenu Jha
 ------------
 .. figure:: http://spidal.org/Images/jha.jpg
    :alt: picture shantenu
+   :width: 100
 
 Prof. Shantenu Jha is an Associate Professor at Rutgers University, a
 member of the Graduate Faculty in the School of Informatics at the
@@ -41,6 +42,7 @@ Gregor von Laszewski
 
 .. figure:: http://spidal.org/laszewski.jpg
    :alt: picture gregor
+   :width: 100
 
 Gregor von Laszewski is an Assistant Director of CGL and DSC in the
 Digital Science Center, School of Informatics and Computing, Indiana
@@ -61,6 +63,7 @@ Judy Qiu
 --------
 .. figure:: http://spidal.org/Images/xqiu.jpg
    :alt: picture judy
+   :width: 100
 
 Dr. Qiu is an assistant professor of Computer Science at Indiana
 University. She graduated from Syracuse University with an Outstanding
@@ -77,6 +80,7 @@ Madhav V. Marathe
 -----------------
 .. figure:: http://spidal.org/Images/marathe.jpg
    :alt: picture madhav marathe
+   :width: 100
 
 Marathe is an expert in interaction-based modeling and the simulation of
 large, complex biological, information, social, and technical systems.
@@ -95,6 +99,7 @@ David Crandall
 --------------
 .. figure:: http://spidal.org/crandall.jpg
    :alt: picture david crandall
+   :width: 100
 
 David Crandall received a Ph.D. in computer science from Cornell
 University in 2008 and M.S. and B.S. degrees in computer science and
@@ -117,6 +122,7 @@ Fusheng Wang
 ------------
 .. figure:: http://spidal.org/wang.jpg
    :alt: picture fusheng wang
+   :width: 100
 
 Dr. Wang is an Assistant Professor in the Department of Computer Science
 and the Department of Biomedical Informatics at Stony Brook University.
@@ -138,6 +144,7 @@ Jun Kong
 --------
 .. figure:: http://spidal.org/kong.jpg
    :alt: picture Jun Kong
+   :width: 100
 
 Dr. Kong is an assistant professor at the Department of Biomedical
 Informatics, Emory University. His research interests include biomedical
@@ -153,6 +160,7 @@ Andre Luckow
 -------------
 .. figure:: http://spidal.org/luckow.jpg
    :alt: picture andre luckow
+   :width: 100
 
 Andre Luckow is a consultant in the SAGA Group. He studied Computer
 Science at the Potsdam University where he obtained his doctorate degree
@@ -163,6 +171,7 @@ Ioannis Paraskevakos
 --------------------
 .. figure:: http://spidal.org/ioannis.jpg
    :alt: picture ioannis paraskevakos
+   :width: 100
 
 Ioannis Paraskevakos is a first year PhD student at Rutgers University
 and a new member at RADICAL lab. Before his PhD studies, he acquired a
@@ -175,6 +184,7 @@ John Paden
 ----------
 .. figure:: http://spidal.org/paden.jpg
    :alt: picture john paden
+   :width: 100
 
 Dr. John Paden is an associate scientist at the Center for Remote
 Sensing of Ice Sheets (CReSIS) at the University of Kansas where he
@@ -188,6 +198,7 @@ Theresa Stumpf
 --------------
 .. figure:: http://spidal.org/stumpf.jpg
    :alt: picture theresa stumpf
+   :width: 100
 
 Theresa Stumpf is a graduate student at the University of Kansas working
 on developing new ultra-broad bandwidth 3-D imaging algorithms and
@@ -199,6 +210,7 @@ Maleq Khan
 ----------
 .. figure:: http://spidal.org/Khan.jpg
    :alt: picture maleq khan
+   :width: 100
 
 Maleq Khan is working as a Research Scientist at the Network Dynamics
 and Simulation Science Laboratory (NDSSL) at Virginia Bioinformatics
