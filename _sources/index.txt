@@ -36,16 +36,19 @@ different views and their corresponding facets.
 
 Contents:
 
-.. toctree::
-:maxdepth: 1
+Contents:
 
-       members
-       meetings
-       spidal
-       midas
-       research
-       software
-       bib
+.. toctree::
+   :maxdepth: 1
+
+   members
+   meetings
+   spidal
+   midas
+   research
+   software
+   bib
+
 
 
    
