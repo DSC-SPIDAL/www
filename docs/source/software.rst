@@ -28,6 +28,7 @@ The codes for these are available at,
 -  DA-MDS - an implementation of deterministic annealing weighted SMACOF
 
    Code https://github.com/DSC-SPIDAL/damds
+
    Releases https://github.com/DSC-SPIDAL/damds/releases
 
 -  DA-PWC - deterministic annealing pairwise clustering
@@ -136,4 +137,4 @@ WebGL technology, which allows GPU-accelerated graphics
 using JavaScript. It enables WebPlotViz to visualize 3D plots
 consisting of millions of data points seamlessly. WebPlotViz is
 designed to visualize sequences of time series 3D data frame
-by frame as a moving plot
+by frame as a moving plot.
