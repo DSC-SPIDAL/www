@@ -36,7 +36,7 @@ http://salsaproj.indiana.edu/DIBBS/Videos/Paden\_6\_26\_2015/Paden\_6\_26\_2015\
 
 Analytics of Three-Dimensional 
 Pathology Imaging Data, 7/24/2015
-------------------------------------------------
+--------------------------------------------------------------------------
 Presenter: Jun Kong, Emory University
 pdf slides `here <http://spidal.org/Videos/slides_Jul24_2015.pdf>`__.
 
@@ -47,7 +47,7 @@ video: http://spidal.org/Videos/Kong\_7\_24\_2015/Kong\_7\_24\_2015.mp4
 
 Computer Vision Meets  
 High-Performance Computing, 8/14/2015
----------------------------------------------------------------------
+-----------------------------------------------------------------------------
 Presenter: David Crandall, Indiana University
 pdf slides
 `here <http://spidal.org/vision-dibbs2.pdf>`__
