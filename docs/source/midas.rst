@@ -53,7 +53,7 @@ Batch Parallel Programming
 
 This section covers the integration of Hadoop into the Pilot Jobs
 framework (`link <http://arxiv.org/abs/1501.05041>`__) more details of
-which can be found in the `Software Tools <tools.html>`__ page, and the
+which can be found in the `Software <software.rst>`__ page, and the
 Harp scientific (high performance) plug-in for Hadoop which benchmarks
 GML5
 (`link <http://grids.ucs.indiana.edu/ptliupages/publications/HarpQiuZhang.pdf>`__).
