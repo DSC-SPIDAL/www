@@ -3,7 +3,7 @@ Members
 
 Geoffrey Fox
 ------------
-.. figure:: http://spidal.org/Images/fox.jpg
+.. figure:: images/fox.jpg
    :alt: picture geoffrey
 
 Geoffrey Fox received a Ph.D. in Theoretical Physics from Cambridge
