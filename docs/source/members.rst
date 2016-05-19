@@ -120,7 +120,7 @@ biomolecules, in particular membrane proteins, at the molecular level.
 
 Fusheng Wang
 ------------
-.. figure:: images/bio/wang.png
+.. figure:: images/bio/wang.jpg
    :alt: picture fusheng wang
    :width: 100
 
@@ -169,7 +169,7 @@ tolerance, computational sciences and programming languages.
 
 Ioannis Paraskevakos
 --------------------
-.. figure:: images/bio/ioannis.png
+.. figure:: images/bio/ioannis.jpg
    :alt: picture ioannis paraskevakos
    :width: 100
 
