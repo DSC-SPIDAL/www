@@ -56,7 +56,7 @@ Presenter: David Crandall, Indiana University, 8/14/2015
 pdf slides
 `here <http://spidal.org/vision-dibbs2.pdf>`__
 
-MD Analysis +, 8/30/2015
+MD Analysis +
 ----------------------------------------------------------------
 
 Presenter: Oliver Beckstein, Arizona State University
