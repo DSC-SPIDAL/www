@@ -137,9 +137,9 @@ be essential to realize the potential power of pathology imaging. We
 will provide a generic parallel image processing pipeline that supports
 different image analysis algorithms with HPC-ABDS.
   
-.. |26 Feature Template| image:: http://spidal.org/spidal/template26.png
-.. |6 Ogres| image:: http://spidal.org/spidal/ogre6.png
+.. |26 Feature Template| image:: images/figures/template26.jpg
+.. |6 Ogres| image:: images/figures/ogre6.jpg
 .. |Glacier Readings| image:: images/figures/glaciers.jpg
-.. |4Views| image:: http://spidal.org/spidal/x-y-ogre.png
-.. |Ogre Facet Benchmark List| image:: http://spidal.org/spidal/algorithm.png
+.. |4Views| image:: images/figures/x-y-ogre.jpg
+.. |Ogre Facet Benchmark List| image:: images/figures/algorithm.jpg
 
