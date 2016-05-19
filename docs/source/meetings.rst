@@ -12,6 +12,7 @@ DIBBS Overall Emphasis
 ------------------------------------------------------
 
 Presenter: Geoffrey Fox, Indiana University, 6/25/2015
+
 Powerpoint slides
 `here <http://spidal.org/Videos/Dibbs%20-%20Overall%20-%20June23-2015.pptx>`__.
 Related slides:
