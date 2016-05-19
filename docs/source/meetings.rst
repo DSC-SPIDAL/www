@@ -30,6 +30,7 @@ CReSIS SPIDAL
 ------------------------------------------------------
 
 Presenter: John Paden, University of Kansas, 6/26/2015
+
 Powerpoint slides
 `here <http://spidal.org/Videos/CReSIS-POLAR_spidal_20150626.pptx>`__.
 
@@ -41,6 +42,7 @@ Pathology Imaging Data
 --------------------------------------------------------------------------
 
 Presenter: Jun Kong, Emory University, 7/24/2015
+
 pdf slides `here <http://spidal.org/Videos/slides_Jul24_2015.pdf>`__.
 
 video:
@@ -53,13 +55,15 @@ High-Performance Computing
 -----------------------------------------------------------------------------
 
 Presenter: David Crandall, Indiana University, 8/14/2015
+
 pdf slides
 `here <http://spidal.org/vision-dibbs2.pdf>`__
 
 MD Analysis +
 ----------------------------------------------------------------
 
-Presenter: Oliver Beckstein, Arizona State University
+Presenter: Oliver Beckstein, Arizona State University, 8/30/2015
+
 pdf slides `here <http://spidal.org/Videos/SPIDAL_Beckstein_2015.pdf>`__
 
 video: http://spidal.org/new-dibbs.mp4
@@ -68,6 +72,7 @@ SparkGIS
 ----------------------------------------------------------
 
 Presenter: Furqan Baig, Stony Brook University, 02/05/2016
+
 PowerPoint slides
 `here <http://spidal.org/SparkGIS%20-%20SPIDAL.pptx>`__
 
@@ -77,6 +82,7 @@ CRESIS_Polar SPIDAL
 -------------------------------------------------------
 
 Presenter: John Paden, University of Kansas, 03/25/2016
+
 PowerPoint slides
 `here <http://spidal.org/CReSIS-POLAR_spidal_20160325.pptx>`__
 
@@ -86,4 +92,5 @@ video: http://spidal.org/SPIDAL\_BiWeekly\_Call\_20160205.mp4
 ---------------------------------------------------------
 
 Presenter: David Crandall, Indiana University, 03/25/2016
+
 PowerPoint slides `here <http://spidal.org/3d_surface_extraction_update.pptx>`__
