@@ -27,7 +27,7 @@ Architecture View (AV), Execution View (EV); Data Source and Style View
 (DV), and Processing View (PV). The following table highlights the
 different views and their corresponding facets.
 
-.. figure:: http://spidal.org/x-y-ogre.png
+.. figure:: images/figures/x-y-ogre.jpg
    :alt: Spidal Dimesnsions
 
    Spidal Dimensions
@@ -36,16 +36,19 @@ different views and their corresponding facets.
 
 Contents:
 
-.. toctree::
-:maxdepth: 1
+Contents:
 
-       members
-       meetings
-       spidal
-       midas
-       research
-       software
-       bib
+.. toctree::
+   :maxdepth: 1
+
+   members
+   meetings
+   spidal
+   midas
+   research
+   software
+   bib
+
 
 
    
