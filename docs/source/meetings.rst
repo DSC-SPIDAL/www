@@ -38,7 +38,7 @@ http://salsaproj.indiana.edu/DIBBS/Videos/Paden\_6\_26\_2015/Paden\_6\_26\_2015\
 Presenter: Jun Kong, Emory University, 7/24/2015
 ------------------------------------------------
 
-pdf slides `here <http://spidal.org/vision-dibbs2.pdf>`__.
+pdf slides `here <http://spidal.org/Videos/slides_Jul24_2015.pdf>`__.
 
 video:
 http://spidal.org/Videos/Kong\_7\_24\_2015/Kong\_7\_24\_2015\_player.html
@@ -49,7 +49,7 @@ Presenter: David Crandall, Indiana University, 8/14/2015
 --------------------------------------------------------
 
 pdf slides
-`here <vision-dibbs2.pptx.Reduce%20FIle%20Size%20200dpi.pdf>`__
+`here <http://spidal.org/vision-dibbs2.pdf>`__
 
 Presenter: Oliver Beckstein, Arizona State University, 8/30/2015
 ----------------------------------------------------------------
