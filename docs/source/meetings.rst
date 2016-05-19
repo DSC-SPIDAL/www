@@ -30,7 +30,7 @@ CReSIS SPIDAL
 ------------------------------------------------------
 
 Presenter: John Paden, University of Kansas, 6/26/2015
-Powerpoint slides
+*Powerpoint slides
 `here <http://spidal.org/Videos/CReSIS-POLAR_spidal_20150626.pptx>`__.
 
 Video:
