@@ -77,4 +77,4 @@ video: http://spidal.org/SPIDAL\_BiWeekly\_Call\_20160205.mp4
 Presenter: David Crandall, Indiana University, 03/25/2016
 ---------------------------------------------------------
 
-PowerPoint slides `here <3d_surface_extraction_update.pptx>`__
+PowerPoint slides `here <http://spidal.org/3d_surface_extraction_update.pptx>`__
