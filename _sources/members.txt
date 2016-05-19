@@ -20,7 +20,7 @@ the capabilities of Minority Serving Institutions.
 
 Shantenu Jha
 ------------
-.. figure:: http://spidal.org/Images/jha.jpg
+.. figure:: images/bio/jha.jpg
    :alt: picture shantenu
    :width: 100
 
