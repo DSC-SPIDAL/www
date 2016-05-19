@@ -32,7 +32,7 @@ Powerpoint slides
 `here <http://spidal.org/Videos/CReSIS-POLAR_spidal_20150626.pptx>`__.
 
 Video:
-http://salsaproj.indiana.edu/DIBBS/Videos/Paden\_6\_26\_2015/Paden\_6\_26\_2015\_player.html
+http://salsaproj.indiana.edu/DIBBS/Videos/Paden\_6\_26\_2015/Paden\_6\_26\_2015\_player.html`__.
 
 Analytics of Three-Dimensional 
 Pathology Imaging Data, 7/24/2015
