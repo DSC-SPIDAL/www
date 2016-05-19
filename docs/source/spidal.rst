@@ -111,7 +111,7 @@ bottom (green) of the glaciers. Results of earlier work are labelled as
 [11]. Ground Truth is human generated analysis.
 
 -  Research paper
-   `here <http://dsc.soic.indiana.edu/publications/ICIPpaper.pdf%20>`__.
+   `here <http://dsc.soic.indiana.edu/publications/ICIPpaper.pdf>`__.
 -  Research paper
    `here <http://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=1758665>`__.
 
@@ -139,7 +139,7 @@ different image analysis algorithms with HPC-ABDS.
   
 .. |26 Feature Template| image:: http://spidal.org/spidal/template26.png
 .. |6 Ogres| image:: http://spidal.org/spidal/ogre6.png
-.. |Glacier Readings| image:: source/images/figures/glaciers.jpg
+.. |Glacier Readings| image:: images/figures/glaciers.jpg
 .. |4Views| image:: http://spidal.org/spidal/x-y-ogre.png
 .. |Ogre Facet Benchmark List| image:: http://spidal.org/spidal/algorithm.png
 
