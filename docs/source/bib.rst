@@ -74,9 +74,9 @@ Indiana University
     Technical report May 10 2016
     pdf version
     `here <http://http://dsc.soic.indiana.edu/publications/tsmap3d.pdf>`__
-#   Saliya Ekanayake, Supun Kamburugamuve and Geoffrey Fox,
+#.  Saliya Ekanayake, Supun Kamburugamuve and Geoffrey Fox,
     “SPIDAL: High Performance Data Analytics with Java and MPI on Large Multicore HPC Clusters”,
-    Technical Report January 5 2016; Proceedings of 24th
+    Technical Report January 5 2016, Proceedings of 24th
     High Performance Computing Symposium (HPC 2016),
     April 3-6, 2016, Pasadena, CA, USA as part of the SCS Spring Simulation Multi-Conference (SpringSim'16)
     pdf version
@@ -101,11 +101,11 @@ Indiana University
     held in conjunction with SIGMOD/PODS2016, July 1, 2016
     pdf version
     `here <http://ipcc.soic.iu.edu/Computation%20Abstractions.pdf>`__
-#.   Bingjing Zhang, Bo Peng, Judy Qiu,
+#.  Bingjing Zhang, Bo Peng, Judy Qiu,
     “High Performance LDA through Collective Model Communication Optimization”,
-     Proceedings of International Conference on Computational Science (ICCS2016) conference, J
-     une 6-8, 2016, San Diego, California.
-     pdf version
+    Proceedings of International Conference on Computational Science (ICCS2016) conference,
+    June 6-8, 2016, San Diego, California.
+    pdf version
     `here <http://ipcc.soic.iu.edu/Harp-LDA.pdf>`__
 #.  Binging Zhang,” A Collective Communication Layer for the Software Stack of Big Data Analytics”,
     Doctoral Symposium. Proceedings of IEEE International Conference on
