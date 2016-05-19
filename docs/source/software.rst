@@ -13,6 +13,41 @@ CLOUDMESH CLIENT
 -  Documentation: http://cloudmesh.github.io/client/
 -  Code: https://github.com/cloudmesh/client
 
+MACHINE LEARNING
+----------------
+
+-  Indiana University
+-  Saliya Ekanayake, Supun Kamburugamuve, Pulasthi Wickramasinghe, Geoffrey C. Fox
+
+Machine learning is a set of high-performance multidimensional scaling and clustering applications targetted for HPC environments.
+
+Users' guide (work in progress) is available at https://www.gitbook.com/book/esaliya/global-machine-learning-with-dsc-spidal/details
+
+The codes for these are available at,
+
+-  DA-MDS - an implementation of deterministic annealing weighted SMACOF
+
+   Code https://github.com/DSC-SPIDAL/damds
+
+   Releases https://github.com/DSC-SPIDAL/damds/releases
+
+-  DA-PWC - deterministic annealing pairwise clustering
+
+   Code https://github.com/DSC-SPIDAL/dapwc
+
+-  MDSasChisq
+
+   Code https://github.com/DSC-SPIDAL/MDSasChisq/tree/ompi1.8.1
+
+-  DA-VS - deterministic annealing vector sponge (vector clustering)
+
+   Code https://github.com/DSC-SPIDAL/davs
+
+-  Common - a set of common utitlies required by above applications
+
+   Code https://github.com/DSC-SPIDAL/common
+
+
 SPATIAL DATA ANALYSIS LIBRARY
 -----------------------------
 
@@ -102,4 +137,4 @@ WebGL technology, which allows GPU-accelerated graphics
 using JavaScript. It enables WebPlotViz to visualize 3D plots
 consisting of millions of data points seamlessly. WebPlotViz is
 designed to visualize sequences of time series 3D data frame
-by frame as a moving plot
+by frame as a moving plot.
