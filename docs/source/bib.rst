@@ -68,7 +68,49 @@ Stony Brook University and Emory University
 
 Indiana University
 ------------------
-
+#.  Supun Kamburugamuve, Pulasthi Wickramasinghe, Saliya Ekanayake,
+    Chathuri Wimalasena, Milinda Pathirage, Geoffrey Fox,
+    "TSmap3D: Browser Visualization of High Dimensional Time Series Data",
+    Technical report May 10 2016
+    pdf version
+    `here <http://http://dsc.soic.indiana.edu/publications/tsmap3d.pdf>`__
+#   Saliya Ekanayake, Supun Kamburugamuve and Geoffrey Fox,
+    “SPIDAL: High Performance Data Analytics with Java and MPI on Large Multicore HPC Clusters”,
+    Technical Report January 5 2016; Proceedings of 24th
+    High Performance Computing Symposium (HPC 2016),
+    April 3-6, 2016, Pasadena, CA, USA as part of the SCS Spring Simulation Multi-Conference (SpringSim'16)
+    pdf version
+    `here <http://dsc.soic.indiana.edu/publications/hpc2016-spidal-high-performance-submit-18-public.pdf>`__
+#.  Geoffrey Fox, Judy Qiu, Shantenu Jha, Saliya Ekanayake, and Supun Kamburugamuve,
+    “Big Data, Simulations and HPC Convergence”
+    Technical Report January 30 2016. DOI: 10.13140/RG.2.1.1858.8566
+    pdf version
+    `here <http://dsc.soic.indiana.edu/publications/HPCBigDataConvergence.pdf>`__
+#.  Supun Kamburugamuve, Saliya Ekanayake, Milinda Pathirage, Geoffrey Fox,
+    “Towards High Performance Processing of Streaming Data in Large Data Centers”
+    Technical Report January 26 2016, to be published in proceedings of
+    HPBDC 2016 IEEE International Workshop on High-Performance Big Data
+    Computing in conjunction with The 30th IEEE International Parallel and
+    Distributed Processing Symposium (IPDPS 2016),Chicago Hyatt Regency,
+    Chicago, Illinois USA, Friday, May 27th, 2016
+    pdf version
+    `here <http://dsc.soic.indiana.edu/publications/high_performance_processing_stream.pdf>`__
+#.  Bingjing Zhang, Peng Bo, Judy Qiu, "Model Data-Centric Computation
+    Abstractions in Machine Learning Applications", to appear in
+    3rd Workshop on Algorithms and Systems for MapReduce and Beyond (BeyondMR2016),
+    held in conjunction with SIGMOD/PODS2016, July 1, 2016
+    pdf version
+    `here <http://ipcc.soic.iu.edu/Computation%20Abstractions.pdf>`__
+#.   Bingjing Zhang, Bo Peng, Judy Qiu,
+    “High Performance LDA through Collective Model Communication Optimization”,
+     Proceedings of International Conference on Computational Science (ICCS2016) conference, J
+     une 6-8, 2016, San Diego, California.
+     pdf version
+    `here <http://ipcc.soic.iu.edu/Harp-LDA.pdf>`__
+#.  Binging Zhang,” A Collective Communication Layer for the Software Stack of Big Data Analytics”,
+    Doctoral Symposium. Proceedings of IEEE International Conference on
+    Cloud Engineering (IC2E2016) Conference, April 4-8, 2016, Berlin, Germany.
+    `here <http://ipcc.soic.iu.edu/A%20Collective%20Communication%20Layer.pdf>`__
 #.  Towards HPC-ABDS: An Initial High-Performance Big Data Stack, in
     Building Robust Big Data Ecosystem, Judy Qiu, Shantenu Jha,
     Andre Luckow and Geoffrey C. Fox, ISO/IEC JTC 1 Study Group on Big
