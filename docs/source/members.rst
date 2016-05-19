@@ -157,7 +157,7 @@ of pathology image analysis algorithms for both 2D and 3D images, as
 well as co-advise graduate students on image algorithm development.
 
 Andre Luckow
--------------
+------------
 .. figure:: images/bio/luckow.jpg
    :alt: picture andre luckow
    :width: 100
