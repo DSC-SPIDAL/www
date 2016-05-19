@@ -36,8 +36,6 @@ different views and their corresponding facets.
 
 Contents:
 
-Contents:
-
 .. toctree::
    :maxdepth: 1
 
