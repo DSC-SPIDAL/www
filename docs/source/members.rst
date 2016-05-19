@@ -3,8 +3,9 @@ Members
 
 Geoffrey Fox
 ------------
-.. figure:: images/fox.jpg
+.. figure:: images/bio/fox.jpg
    :alt: picture geoffrey
+   :scale: 50
 
 Geoffrey Fox received a Ph.D. in Theoretical Physics from Cambridge
 University and is now professor of Informatics and Computing, and
