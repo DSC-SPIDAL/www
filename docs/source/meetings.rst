@@ -66,16 +66,15 @@ SparkGIS
 * PowerPoint slides `here <http://spidal.org/SparkGIS%20-%20SPIDAL.pptx>`__
 * `video <http://spidal.org/SPIDAL_Bi_Weekly_20151030.mp4>`_
 
-CRESIS_Polar SPIDAL
+CRESIS Polar
 -------------------------------------------------------
 * Presenter: John Paden, University of Kansas
 * Date: 03/25/2016
 * PowerPoint slides `here <http://spidal.org/CReSIS-POLAR_spidal_20160325.pptx>`__
-* `video: <http://spidal.org/SPIDAL_BiWeekly_Call_20160205.mp4>`_
+* `video <http://spidal.org/SPIDAL_BiWeekly_Call_20160205.mp4>`_
 
 3D Surface Extraction update
 ---------------------------------------------------------
 * Presenter: David Crandall, Indiana University
 * Date: 03/25/2016
 * PowerPoint slides `here <http://spidal.org/3d_surface_extraction_update.pptx>`__
-
