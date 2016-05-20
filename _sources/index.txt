@@ -1,5 +1,5 @@
 SPIDAL Project
-==================================
+==============
 
 Wiki: https://github.com/DSC-SPIDAL/www/wiki
 
@@ -33,8 +33,6 @@ different views and their corresponding facets.
    Spidal Dimensions
 
 ----------------------------------------------------------------------
-
-Contents:
 
 Contents:
 

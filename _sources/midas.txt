@@ -20,6 +20,7 @@ supercomputer, multicore, GPU, and Xeon Phi systems is clearly
 important.
 
 |Big Data Stack HPC-ABDS|
+-------------------------
 
 Identifying HPC-ABDS Software Stack
 -----------------------------------
@@ -28,6 +29,7 @@ The image below gives a comparison of typical cloud and supercomputer
 software layered stacks.
 
 |HPC-ABDS Cloud/Supercomputer Stacks|
+-------------------------------------
 
 -  Research paper `here <http://hpc-abds.org/kaleidoscope/>`__.
 -  Research paper
@@ -51,7 +53,7 @@ Batch Parallel Programming
 
 This section covers the integration of Hadoop into the Pilot Jobs
 framework (`link <http://arxiv.org/abs/1501.05041>`__) more details of
-which can be found in the `Software Tools <tools.html>`__ page, and the
+which can be found in the `Software <http://dsc-spidal.github.io/www/software.html>`__ page, and the
 Harp scientific (high performance) plug-in for Hadoop which benchmarks
 GML5
 (`link <http://grids.ucs.indiana.edu/ptliupages/publications/HarpQiuZhang.pdf>`__).
@@ -67,11 +69,11 @@ data from the Internet of Things (IoT).
 -  Research paper
    `here <http://dsc.soic.indiana.edu/publications/iotcloud_hindavi_two_column_final_2.docx>`__.
 -  Research paper
-   `here <http://dsc.soic.indiana.edu/publications/Xiaoming%20Gao%20Thesis%20v5.pdf%20>`__.
+   `here <http://dsc.soic.indiana.edu/publications/Xiaoming%20Gao%20Thesis%20v5.pdf>`__.
 -  Research paper
    `here <http://dsc.soic.indiana.edu/publications/intelligent_iot_cloud_controller.pdf>`__.
 -  Research paper
-   `here <http://dsc.soic.indiana.edu/publications/Parallel%20Clustering%20of%20High-Dimensional%20Social%20Media%20Data%20Streams_v11.pdf%20>`__.
+   `here <http://dsc.soic.indiana.edu/publications/Parallel%20Clustering%20of%20High-Dimensional%20Social%20Media%20Data%20Streams_v11.pdf>`__.
 
 MIDAS Ongoing Work
 
@@ -83,6 +85,6 @@ MIDAS Ongoing Work
 #. Integrate Pilot Jobs with Streaming and Harp
 #. Support GPU and Xeon Phi
 
-.. |Big Data Stack HPC-ABDS| image:: http://spidal.org/midas/kaleidoscope.png
-.. |HPC-ABDS Cloud/Supercomputer Stacks| image:: http://spidal.org/midas/integrate.png
-.. |Big Data Stack HPC-ABDS| image:: http://spidal.org/midas/BSAT.png
+.. |Big Data Stack HPC-ABDS| image:: images/figures/kaleidoscope.jpg
+.. |HPC-ABDS Cloud/Supercomputer Stacks| image:: images/figures/integrate.jpg
+.. |Big Data Stack HPC-ABDS| image:: images/figures/bsat.jpg
