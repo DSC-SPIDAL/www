@@ -73,7 +73,7 @@ Indiana University
     "TSmap3D: Browser Visualization of High Dimensional Time Series Data",
     Technical report May 10 2016
     pdf version
-    `here <http://http://dsc.soic.indiana.edu/publications/tsmap3d.pdf>`__
+    `here <http://dsc.soic.indiana.edu/publications/tsmap3d.pdf>`__
 #.  Saliya Ekanayake, Supun Kamburugamuve and Geoffrey Fox,
     “SPIDAL: High Performance Data Analytics with Java and MPI on Large Multicore HPC Clusters”,
     Technical Report January 5 2016, Proceedings of 24th
@@ -209,7 +209,7 @@ University of Kansas
    Sivaprasad Gogineni, IEEE Transactions on Geoscience and Remote
    Sensing, 2012, vol.50, no. 12, doi: 10.1109/TGRS.2012.2203822. pdf
    version
-   `here <http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload-true&arnumber-6248690>`__
+   `here <<http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6248690>`__
 #. Ice-sheet bed 3-D tomography, John Paden, Torry Akins, David
    Dunson, Christopher Allen, Sivaprasad Gogineni Journal of Glaciology,
    56 (195), 3-11. pdf version
@@ -222,7 +222,7 @@ University of Kansas
 #. 3D Imaging of Ice Sheets, John Paden, Christopher Allen,
    Prasad Gogineni IEEE Geoscience and Remote Sensing Symposium, 2010
    (IGARSS ’10), Honolulu, Hawaii, 25-30 July, 2010. pdf version
-   `here <http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber-5649163>`__
+   `here <http://geodesy.unr.edu/hanspeterplag/library/IGARSS2010/pdfs/4526.pdf>`__
 
 Arizona State University
 ------------------------
