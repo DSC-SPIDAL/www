@@ -1,8 +1,6 @@
 SPIDAL Project
 ==============
 
-Wiki: https://github.com/DSC-SPIDAL/www/wiki
-
 The goal for the SPIDAL project is to create software abstractions to
 help connect communities together with applications in different
 scientific fields, letting us collaborate and use other communities’
