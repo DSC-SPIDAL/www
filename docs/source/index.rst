@@ -44,7 +44,7 @@ Contents:
    research
    software
    bib
-
+   about
 
 
    
