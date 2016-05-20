@@ -221,8 +221,8 @@ University of Kansas
    `here <http://www.igsoc.org/symposia/2013/kansas/proceedings/proceedings.html>`__
 #. 3D Imaging of Ice Sheets, John Paden, Christopher Allen,
    Prasad Gogineni IEEE Geoscience and Remote Sensing Symposium, 2010
-   (IGARSS ’10), Honolulu, Hawaii, 25-30 July, 2010. pdf version
-   `here <http://geodesy.unr.edu/hanspeterplag/library/IGARSS2010/pdfs/4526.pdf>`__
+   (IGARSS ’10), Honolulu, Hawaii, 25-30 July, 2010. pdf version `here <<http://www.researchgate.net/publication/233559746_Ice-sheet_bed_3-D_tomography>>`__
+   `here <<http://geodesy.unr.edu/hanspeterplag/library/IGARSS2010/pdfs/4526.pdf>>`__
 
 Arizona State University
 ------------------------
