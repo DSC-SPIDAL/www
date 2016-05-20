@@ -111,7 +111,16 @@ design algorithms that can “see”. He is particularly interested in
 visual object recognition and scene understanding. He is also interested
 in other problems that involve analyzing and modeling large amounts of
 uncertain data, notably in mining data from the web and from online
-social networking sites. Oliver Beckstein Oliver Beckstein Oliver
+social networking sites. Oliver
+
+
+Oliver Beckstein 
+-----------------
+
+.. figure:: images/bio/beckstein.jpg
+   :alt: picture Oliver Beckstein
+   :width: 100
+
 Beckstein leads a Computational Biophysics research group in the Center
 for Biological Physics and the Department of Physics at Arizona State
 University. His lab uses computational approaches such as molecular
