@@ -209,11 +209,11 @@ University of Kansas
    Sivaprasad Gogineni, IEEE Transactions on Geoscience and Remote
    Sensing, 2012, vol.50, no. 12, doi: 10.1109/TGRS.2012.2203822. pdf
    version
-   `here <<http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6248690>`__
+   `here <http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6248690>`__
 #. Ice-sheet bed 3-D tomography, John Paden, Torry Akins, David
    Dunson, Christopher Allen, Sivaprasad Gogineni Journal of Glaciology,
    56 (195), 3-11. pdf version
-   `here <<http://www.researchgate.net/publication/233559746_Ice-sheet_bed_3-D_tomography>`__
+   `here <http://www.researchgate.net/publication/233559746_Ice-sheet_bed_3-D_tomography>`__
 #. Comparison of tomographic methods for ice bottom mapping,,
    John D. Paden, Sahana Raghunandan, Shannon Blunt, Carl Leuschen
    International Glaciological Society Radioglaciology 2013 Meeting,
@@ -222,7 +222,7 @@ University of Kansas
 #. 3D Imaging of Ice Sheets, John Paden, Christopher Allen,
    Prasad Gogineni IEEE Geoscience and Remote Sensing Symposium, 2010
    (IGARSS ’10), Honolulu, Hawaii, 25-30 July, 2010. pdf version 
-   `here <<http://geodesy.unr.edu/hanspeterplag/library/IGARSS2010/pdfs/4526.pdf>`__
+   `here <http://geodesy.unr.edu/hanspeterplag/library/IGARSS2010/pdfs/4526.pdf>`__
 
 Arizona State University
 ------------------------
