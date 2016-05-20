@@ -213,7 +213,7 @@ University of Kansas
 #. Ice-sheet bed 3-D tomography, John Paden, Torry Akins, David
    Dunson, Christopher Allen, Sivaprasad Gogineni Journal of Glaciology,
    56 (195), 3-11. pdf version
-   `here <http://www.researchgate.net/publication/233559746_Ice-sheet_bed_3-D_tomography>`__
+   `here <<http://www.researchgate.net/publication/233559746_Ice-sheet_bed_3-D_tomography>>`__
 #. Comparison of tomographic methods for ice bottom mapping,,
    John D. Paden, Sahana Raghunandan, Shannon Blunt, Carl Leuschen
    International Glaciological Society Radioglaciology 2013 Meeting,
