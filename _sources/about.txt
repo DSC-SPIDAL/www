@@ -9,7 +9,7 @@ The source of the page can be found at:
 
 * https://github.com/DSC-SPIDAL/www
 
-Indivudual pages are located at:
+Individual pages are located at:
 
 * https://github.com/DSC-SPIDAL/www/tree/master/docs/source
 
