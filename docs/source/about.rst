@@ -9,9 +9,7 @@ The source of the page can be found at:
 
 * https://github.com/DSC-SPIDAL/www
 
-Individual pages are located at:
+Those that do not have direct access are able to even edit in the
+browser. This is documented at:
 
-* https://github.com/DSC-SPIDAL/www/tree/master/docs/source
-
-Those that have access to the pages via github can modify the
-pages directly. 
+* https://github.com/blog/1557-github-flow-in-the-browser
