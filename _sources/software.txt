@@ -137,4 +137,4 @@ WebGL technology, which allows GPU-accelerated graphics
 using JavaScript. It enables WebPlotViz to visualize 3D plots
 consisting of millions of data points seamlessly. WebPlotViz is
 designed to visualize sequences of time series 3D data frame
-by frame as a moving plot
+by frame as a moving plot.
