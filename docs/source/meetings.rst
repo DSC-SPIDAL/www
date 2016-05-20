@@ -30,9 +30,7 @@ CReSIS SPIDAL
 ------------------------------------------------------
 * Presenter: John Paden, University of Kansas
 * 6/26/2015
-* Powerpoint slides
-`here <http://spidal.org/Videos/CReSIS-POLAR_spidal_20150626.pptx>`__.
-
+* Powerpoint slides `here <http://spidal.org/Videos/CReSIS-POLAR_spidal_20150626.pptx>`__.
 * `Video <http://salsaproj.indiana.edu/DIBBS/Videos/Paden_6_26_2015/Paden_6_26_2015_player.html>`_
 
 Analytics of Three-Dimensional Pathology Imaging Data
@@ -44,13 +42,14 @@ Analytics of Three-Dimensional Pathology Imaging Data
 * `video <http://spidal.org/Videos/Kong_7_24_2015/Kong_7_24_2015_player.html>`_
 * `video <http://spidal.org/Videos/Kong_7_24_2015/Kong_7_24_2015.mp4>`_
 
+
 Computer Vision Meets High-Performance Computing
 -----------------------------------------------------------------------------
 
 * Presenter: David Crandall, Indiana University
-
 * Date: 8/14/2015
 * `slides <http://spidal.org/vision-dibbs2.pdf>`__
+
 
 MD Analysis +
 ----------------------------------------------------------------
@@ -79,3 +78,4 @@ CRESIS_Polar SPIDAL
 * Presenter: David Crandall, Indiana University
 * Date: 03/25/2016
 * PowerPoint slides `here <http://spidal.org/3d_surface_extraction_update.pptx>`__
+
