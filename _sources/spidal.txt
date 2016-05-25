@@ -23,6 +23,7 @@ NASA applications.
    `here <http://grids.ucs.indiana.edu/ptliupages/publications/NISTUseCase.pdf>`__.
 
 |26 Feature Template|
+^^^^^^^^^^^^^^^^^^^^^
 
 
 General Analysis of Features of Big Data Applications
@@ -43,6 +44,7 @@ Ogre Problem Architecture Classification.
 
 
 |6 Ogres|
+^^^^^^^^^
 
 
 
@@ -76,6 +78,7 @@ algorithms General Machine Learning (GML) 1 and 2.
 
 
 |4Views|
+^^^^^^^^
 
 Big Data Benchmarking
 ^^^^^^^^^^^^^^^^^^^^^
@@ -87,6 +90,7 @@ and so that view is omitted.
 
 
 |Ogre Facet Benchmark List|
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
 SPIDAL Kernels Big Data Benchmarking Further/Ongoing work:
@@ -108,7 +112,7 @@ Remote Sensing -- Kansas
 ^^^^^^^^^^^^^^^^^^^^^^^^
 The images below display Kansas radar images measuring glacier beds with
 results of new machine learning algorithms identifying the top (red) and
-bottom (green) of the glaciers. Results of earlier work are labelled as
+bottom (green) of the glaciers. Results of earlier work are labeled as
 [11]. Ground Truth is human generated analysis.
 
 -  Research paper
@@ -118,6 +122,7 @@ bottom (green) of the glaciers. Results of earlier work are labelled as
 
 
 |Glacier Readings|
+^^^^^^^^^^^^^^^^^^
 
 
 Pathology Informatics – Stony Brook University

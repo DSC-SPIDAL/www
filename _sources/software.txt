@@ -138,3 +138,30 @@ using JavaScript. It enables WebPlotViz to visualize 3D plots
 consisting of millions of data points seamlessly. WebPlotViz is
 designed to visualize sequences of time series 3D data frame
 by frame as a moving plot.
+
+
+.. _mdanalysis-software:
+
+MDAnalysis
+----------
+
+- Arizona State University
+- co-PI: Oliver Beckstein
+- Home page: http://www.mdanalysis.org
+- Code: https://github.com/MDAnalysis/mdanalysis
+
+MDAnalysis_ is an object-oriented Python library to analyze
+trajectories from molecular dynamics (MD) simulations with millions of
+particles in most of the commonly used file formats. It abstracts
+access to the raw simulation data and presents a uniform
+object-oriented Python interface to the user. It thus enables users to
+rapidly write code that is portable and immediately usable in
+virtually all biomolecular simulation communities while also
+leveraging the existing libraries in the Python eco-system. The user
+interface and modular design work equally well in complex scripted
+workflows, as foundations for other packages, and for interactive and
+rapid prototyping work. MDAnalysis is developed by an active developer
+community and is available under the GNU General Public License,
+version 2.
+
+.. _MDAnalysis: http://www.mdanalysis.org
