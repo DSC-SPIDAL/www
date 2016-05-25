@@ -29,6 +29,7 @@
     <script type="text/javascript" src="_static/js/jquery-fix.js"></script>
     <script type="text/javascript" src="_static/bootstrap-3.3.6/js/bootstrap.min.js"></script>
     <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
+    <link rel="author" title="About these documents" href="about.html" />
     <link rel="top" title="SPIDAL 1.0 documentation" href="index.html" />
     <link rel="next" title="MIDAS" href="midas.html" />
     <link rel="prev" title="Meetings" href="meetings.html" />
@@ -74,6 +75,7 @@
 <li class="toctree-l2"><a class="reference internal" href="members.html#judy-qiu">Judy Qiu</a></li>
 <li class="toctree-l2"><a class="reference internal" href="members.html#madhav-v-marathe">Madhav V. Marathe</a></li>
 <li class="toctree-l2"><a class="reference internal" href="members.html#david-crandall">David Crandall</a></li>
+<li class="toctree-l2"><a class="reference internal" href="members.html#oliver-beckstein">Oliver Beckstein</a></li>
 <li class="toctree-l2"><a class="reference internal" href="members.html#fusheng-wang">Fusheng Wang</a></li>
 <li class="toctree-l2"><a class="reference internal" href="members.html#jun-kong">Jun Kong</a></li>
 <li class="toctree-l2"><a class="reference internal" href="members.html#andre-luckow">Andre Luckow</a></li>
@@ -122,6 +124,7 @@
 <li class="toctree-l2"><a class="reference internal" href="software.html#midas">MIDAS</a></li>
 <li class="toctree-l2"><a class="reference internal" href="software.html#cinet-a-cyber-infrastructure-for-network-science">CINET: A CYBER INFRASTRUCTURE FOR NETWORK SCIENCE</a></li>
 <li class="toctree-l2"><a class="reference internal" href="software.html#webplotviz-browser-based-visualization-tool">WebPlotViz: Browser based Visualization tool</a></li>
+<li class="toctree-l2"><a class="reference internal" href="software.html#mdanalysis">MDAnalysis</a></li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="bib.html">Publications</a><ul>
@@ -134,6 +137,7 @@
 <li class="toctree-l2"><a class="reference internal" href="bib.html#virginia-polytechnic-institute-and-state-university">Virginia Polytechnic Institute and State University</a></li>
 </ul>
 </li>
+<li class="toctree-l1"><a class="reference internal" href="about.html">Contributing</a></li>
 </ul>
 </ul>
 </li>
@@ -150,16 +154,21 @@
 <li><a class="reference internal" href="#">Spidal</a><ul>
 <li><a class="reference internal" href="#architecture">Architecture</a><ul>
 <li><a class="reference internal" href="#general-study-of-big-data-applications">General Study of Big Data Applications</a></li>
+<li><a class="reference internal" href="#feature-template"></a></li>
 <li><a class="reference internal" href="#general-analysis-of-features-of-big-data-applications">General Analysis of Features of Big Data Applications</a></li>
+<li><a class="reference internal" href="#ogres"></a></li>
 <li><a class="reference internal" href="#general-big-data-application-activity-further-ongoing-work">General Big Data Application Activity Further/Ongoing work</a></li>
 </ul>
 </li>
 <li><a class="reference internal" href="#spidal-kernels">Spidal Kernels</a><ul>
+<li><a class="reference internal" href="#views"></a></li>
 <li><a class="reference internal" href="#big-data-benchmarking">Big Data Benchmarking</a></li>
+<li><a class="reference internal" href="#ogre-facet-benchmark-list"></a></li>
 </ul>
 </li>
 <li><a class="reference internal" href="#spidal-communities">SPIDAL Communities</a><ul>
 <li><a class="reference internal" href="#remote-sensing-kansas">Remote Sensing &#8211; Kansas</a></li>
+<li><a class="reference internal" href="#glacier-readings"></a></li>
 <li><a class="reference internal" href="#pathology-informatics-stony-brook-university">Pathology Informatics – Stony Brook University</a></li>
 </ul>
 </li>
@@ -220,6 +229,7 @@
 <li class="toctree-l2"><a class="reference internal" href="members.html#judy-qiu">Judy Qiu</a></li>
 <li class="toctree-l2"><a class="reference internal" href="members.html#madhav-v-marathe">Madhav V. Marathe</a></li>
 <li class="toctree-l2"><a class="reference internal" href="members.html#david-crandall">David Crandall</a></li>
+<li class="toctree-l2"><a class="reference internal" href="members.html#oliver-beckstein">Oliver Beckstein</a></li>
 <li class="toctree-l2"><a class="reference internal" href="members.html#fusheng-wang">Fusheng Wang</a></li>
 <li class="toctree-l2"><a class="reference internal" href="members.html#jun-kong">Jun Kong</a></li>
 <li class="toctree-l2"><a class="reference internal" href="members.html#andre-luckow">Andre Luckow</a></li>
@@ -268,6 +278,7 @@
 <li class="toctree-l2"><a class="reference internal" href="software.html#midas">MIDAS</a></li>
 <li class="toctree-l2"><a class="reference internal" href="software.html#cinet-a-cyber-infrastructure-for-network-science">CINET: A CYBER INFRASTRUCTURE FOR NETWORK SCIENCE</a></li>
 <li class="toctree-l2"><a class="reference internal" href="software.html#webplotviz-browser-based-visualization-tool">WebPlotViz: Browser based Visualization tool</a></li>
+<li class="toctree-l2"><a class="reference internal" href="software.html#mdanalysis">MDAnalysis</a></li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="bib.html">Publications</a><ul>
@@ -280,6 +291,7 @@
 <li class="toctree-l2"><a class="reference internal" href="bib.html#virginia-polytechnic-institute-and-state-university">Virginia Polytechnic Institute and State University</a></li>
 </ul>
 </li>
+<li class="toctree-l1"><a class="reference internal" href="about.html">Contributing</a></li>
 </ul>
 
 </ul>
@@ -316,7 +328,9 @@ NASA applications.</p>
 <li>Research paper
 <a class="reference external" href="http://grids.ucs.indiana.edu/ptliupages/publications/NISTUseCase.pdf">here</a>.</li>
 </ul>
-<p><img alt="26 Feature Template" src="_images/template26.jpg" /></p>
+</div>
+<div class="section" id="feature-template">
+<h3><img alt="26 Feature Template" src="_images/template26.jpg" /><a class="headerlink" href="#feature-template" title="Permalink to this headline">¶</a></h3>
 </div>
 <div class="section" id="general-analysis-of-features-of-big-data-applications">
 <h3>General Analysis of Features of Big Data Applications<a class="headerlink" href="#general-analysis-of-features-of-big-data-applications" title="Permalink to this headline">¶</a></h3>
@@ -333,7 +347,9 @@ Ogre Problem Architecture Classification.</p>
 <li>Research paper
 <a class="reference external" href="http://dsc.soic.indiana.edu/publications/OgrePaperv9.pdf">here</a>.</li>
 </ul>
-<p><img alt="6 Ogres" src="_images/ogre6.jpg" /></p>
+</div>
+<div class="section" id="ogres">
+<h3><img alt="6 Ogres" src="_images/ogre6.jpg" /><a class="headerlink" href="#ogres" title="Permalink to this headline">¶</a></h3>
 </div>
 <div class="section" id="general-big-data-application-activity-further-ongoing-work">
 <h3>General Big Data Application Activity Further/Ongoing work<a class="headerlink" href="#general-big-data-application-activity-further-ongoing-work" title="Permalink to this headline">¶</a></h3>
@@ -363,14 +379,18 @@ algorithms General Machine Learning (GML) 1 and 2.</p>
 <li>Research paper
 <a class="reference external" href="http://grids.ucs.indiana.edu/ptliupages/publications/OgreFacetsv9.pdf">here</a>.</li>
 </ul>
-<p><img alt="4Views" src="_images/x-y-ogre.jpg" /></p>
+<div class="section" id="views">
+<h3><img alt="4Views" src="_images/x-y-ogre.jpg" /><a class="headerlink" href="#views" title="Permalink to this headline">¶</a></h3>
+</div>
 <div class="section" id="big-data-benchmarking">
 <h3>Big Data Benchmarking<a class="headerlink" href="#big-data-benchmarking" title="Permalink to this headline">¶</a></h3>
 <p>Below is a list of the members of SPIDAL library and the Ogre facets
 that they support. There are no SPIDAL library members directly
 addressing Data Source &amp; Style View (except spatial analytics and GIS)
 and so that view is omitted.</p>
-<p><img alt="Ogre Facet Benchmark List" src="_images/algorithm.jpg" /></p>
+</div>
+<div class="section" id="ogre-facet-benchmark-list">
+<h3><img alt="Ogre Facet Benchmark List" src="_images/algorithm.jpg" /><a class="headerlink" href="#ogre-facet-benchmark-list" title="Permalink to this headline">¶</a></h3>
 <p>SPIDAL Kernels Big Data Benchmarking Further/Ongoing work:</p>
 <ul class="simple">
 <li>Package existing Kernels</li>
@@ -387,7 +407,7 @@ and so that view is omitted.</p>
 <h3>Remote Sensing &#8211; Kansas<a class="headerlink" href="#remote-sensing-kansas" title="Permalink to this headline">¶</a></h3>
 <p>The images below display Kansas radar images measuring glacier beds with
 results of new machine learning algorithms identifying the top (red) and
-bottom (green) of the glaciers. Results of earlier work are labelled as
+bottom (green) of the glaciers. Results of earlier work are labeled as
 [11]. Ground Truth is human generated analysis.</p>
 <ul class="simple">
 <li>Research paper
@@ -395,7 +415,9 @@ bottom (green) of the glaciers. Results of earlier work are labelled as
 <li>Research paper
 <a class="reference external" href="http://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=1758665">here</a>.</li>
 </ul>
-<p><img alt="Glacier Readings" src="_images/glaciers.jpg" /></p>
+</div>
+<div class="section" id="glacier-readings">
+<h3><img alt="Glacier Readings" src="_images/glaciers.jpg" /><a class="headerlink" href="#glacier-readings" title="Permalink to this headline">¶</a></h3>
 </div>
 <div class="section" id="pathology-informatics-stony-brook-university">
 <h3>Pathology Informatics – Stony Brook University<a class="headerlink" href="#pathology-informatics-stony-brook-university" title="Permalink to this headline">¶</a></h3>

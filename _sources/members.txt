@@ -111,7 +111,7 @@ design algorithms that can “see”. He is particularly interested in
 visual object recognition and scene understanding. He is also interested
 in other problems that involve analyzing and modeling large amounts of
 uncertain data, notably in mining data from the web and from online
-social networking sites. Oliver
+social networking sites.
 
 
 Oliver Beckstein 
@@ -121,11 +121,20 @@ Oliver Beckstein
    :alt: picture Oliver Beckstein
    :width: 100
 
-Beckstein leads a Computational Biophysics research group in the Center
-for Biological Physics and the Department of Physics at Arizona State
-University. His lab uses computational approaches such as molecular
-dynamics simulations in order to understand the function of
-biomolecules, in particular membrane proteins, at the molecular level.
+Oliver Beckstein leads the `Computational Biophysics research group`_ in
+the Center for Biological Physics and the Department of Physics at
+Arizona State University. He received his DPhil in Biochemistry from
+the University of Oxford in 2005 and his Diplom in Physics from the
+University of Erlangen-Nuremberg, Germany in 1999. He was a Junior
+Research Fellow at Merton College, Oxford, and a postdoctoral fellow
+at Johns-Hopkins University and the University of Oxford. His lab uses
+computational approaches such as molecular dynamics simulations in
+order to understand the function of biomolecules, in particular
+membrane proteins, at the molecular level.
+
+.. _Computational Biophysics research group:
+   http://becksteinlab.physics.asu.edu
+
 
 Fusheng Wang
 ------------
