@@ -140,6 +140,8 @@ designed to visualize sequences of time series 3D data frame
 by frame as a moving plot.
 
 
+.. _mdanalysis-software:
+
 MDAnalysis
 ----------
 
