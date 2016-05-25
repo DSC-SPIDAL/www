@@ -12,19 +12,21 @@ and develops computational tools to answer them. As part of the SPIDAL
 project, they will use the libraries developed by the partners to
 analyze data-intensive biomolecular simulations. Algorithms for
 efficiently analyzing large simulations will be implemented as part of
-the popular MDAnalysis (mdanalysis.googlecode.com) package. By bringing
-“BigData” tools to the computational biophysics community, we to answer
-questions on how proteins function in healthy conditions and how they
-malfunction in diseases, ultimately leading to physics-inspired answers
-on how to improve human health. The SPIDAL project will support the
-lab’s overarching aim to quantitatively predict the function and
-activity of proteins from the knowledge of their structures alone and so
-to better understand biological phenomena at the molecular level, in
-particular transmembrane transport processes catalyzed by membrane
-proteins such as secondary active transporters and ion channels. The
-work contributes to a range of related fields such as structural
-biology, physiology, nanobiotechnology as well as ultimately to the
-development of new drugs.
+the popular MDAnalysis_ package. By bringing “BigData” tools to the
+computational biophysics community, we try to answer questions on how
+proteins function in healthy conditions and how they malfunction in
+diseases, ultimately leading to physics-inspired answers on how to
+improve human health. The SPIDAL project will support the lab’s
+overarching aim to quantitatively predict the function and activity of
+proteins from the knowledge of their structures alone and so to better
+understand biological phenomena at the molecular level, in particular
+transmembrane transport processes catalyzed by membrane proteins such
+as secondary active transporters and ion channels. The work
+contributes to a range of related fields such as structural biology,
+physiology, nanobiotechnology as well as ultimately to the development
+of new drugs.
+
+.. _MDAnalysis: http://www.mdanalysis.org
 
 CENTER FOR REMOTE SENSING OF ICE SHEETS
 ---------------------------------------
