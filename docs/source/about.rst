@@ -1,7 +1,7 @@
 Contributing
 ============
 
-These Web pages are managed on github. If wishing to make modifications, you can
+These Web pages are managed on github. If you wish to make modifications, you can
 fork it, create pull requests or send email to
 help@futuresystems.org with your suggestions for improvements.
 
