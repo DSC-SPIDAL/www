@@ -23,7 +23,7 @@ Machine learning is a set of high-performance multidimensional scaling and clust
 
 Users' guide (work in progress) is available at https://www.gitbook.com/book/esaliya/global-machine-learning-with-dsc-spidal/details
 
-The codes for these are available at,
+The following codes are available at:
 
 -  DA-MDS - an implementation of deterministic annealing weighted SMACOF
 
