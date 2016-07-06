@@ -43,7 +43,7 @@ The following codes are available at:
 
    Code https://github.com/DSC-SPIDAL/davs
 
--  Common - a set of common utitlies required by above applications
+-  Common - a set of common utilities required by the above applications
 
    Code https://github.com/DSC-SPIDAL/common
 
