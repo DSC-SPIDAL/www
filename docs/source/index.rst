@@ -26,7 +26,7 @@ Architecture View (AV), Execution View (EV); Data Source and Style View
 different views and their corresponding facets.
 
 .. figure:: images/figures/x-y-ogre.jpg
-   :alt: Spidal Dimesnsions
+   :alt: Spidal Dimensions
 
    Spidal Dimensions
 
