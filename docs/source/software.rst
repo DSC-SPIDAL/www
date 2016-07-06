@@ -7,7 +7,7 @@ CLOUDMESH CLIENT
 -  Indiana University
 -  Gregor von Laszewski
 
--  Cloudmesh Client: an easy to use client to access hypbrid and
+-  Cloudmesh Client: an easy-to-use client for accessing hybrid and
    heterogeneous clouds.
 
 -  Documentation: http://cloudmesh.github.io/client/
@@ -19,7 +19,7 @@ MACHINE LEARNING
 -  Indiana University
 -  Saliya Ekanayake, Supun Kamburugamuve, Pulasthi Wickramasinghe, Geoffrey C. Fox
 
-Machine learning is a set of high-performance multidimensional scaling and clustering applications targetted for HPC environments.
+Machine learning is a set of high-performance multidimensional scaling and clustering applications targeted for HPC environments.
 
 Users' guide (work in progress) is available at https://www.gitbook.com/book/esaliya/global-machine-learning-with-dsc-spidal/details
 
