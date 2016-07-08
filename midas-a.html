@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>MIDAS &mdash; SPIDAL 1.0 documentation</title>
+    
+    <link rel="stylesheet" href="_static/basic.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="_static/bootswatch-3.3.6/united/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" href="_static/bootstrap-sphinx.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    './',
+        VERSION:     '1.0',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <script type="text/javascript" src="_static/js/jquery-1.11.0.min.js"></script>
+    <script type="text/javascript" src="_static/js/jquery-fix.js"></script>
+    <script type="text/javascript" src="_static/bootstrap-3.3.6/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="_static/bootstrap-sphinx.js"></script>
+    <link rel="author" title="About these documents" href="about.html" />
+    <link rel="top" title="SPIDAL 1.0 documentation" href="index.html" />
+    <link rel="next" title="Research" href="research.html" />
+    <link rel="prev" title="Spidal" href="spidal.html" />
+<meta charset='utf-8'>
+<meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
+<meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1'>
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+  </head>
+  <body role="document">
+
+  <div id="navbar" class="navbar navbar-inverse navbar-default navbar-fixed-top">
+    <div class="container">
+      <div class="navbar-header">
+        <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".nav-collapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="index.html">
+          SPIDAL</a>
+        <span class="navbar-text navbar-version pull-left"><b>1.0</b></span>
+      </div>
+
+        <div class="collapse navbar-collapse nav-collapse">
+          <ul class="nav navbar-nav">
+            
+            
+              <li class="dropdown globaltoc-container">
+  <a role="button"
+     id="dLabelGlobalToc"
+     data-toggle="dropdown"
+     data-target="#"
+     href="index.html">Site <b class="caret"></b></a>
+  <ul class="dropdown-menu globaltoc"
+      role="menu"
+      aria-labelledby="dLabelGlobalToc"><ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="members.html">Members</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="members.html#geoffrey-fox">Geoffrey Fox</a></li>
+<li class="toctree-l2"><a class="reference internal" href="members.html#shantenu-jha">Shantenu Jha</a></li>
+<li class="toctree-l2"><a class="reference internal" href="members.html#gregor-von-laszewski">Gregor von Laszewski</a></li>
+<li class="toctree-l2"><a class="reference internal" href="members.html#judy-qiu">Judy Qiu</a></li>
+<li class="toctree-l2"><a class="reference internal" href="members.html#madhav-v-marathe">Madhav V. Marathe</a></li>
+<li class="toctree-l2"><a class="reference internal" href="members.html#david-crandall">David Crandall</a></li>
+<li class="toctree-l2"><a class="reference internal" href="members.html#oliver-beckstein">Oliver Beckstein</a></li>
+<li class="toctree-l2"><a class="reference internal" href="members.html#fusheng-wang">Fusheng Wang</a></li>
+<li class="toctree-l2"><a class="reference internal" href="members.html#jun-kong">Jun Kong</a></li>
+<li class="toctree-l2"><a class="reference internal" href="members.html#andre-luckow">Andre Luckow</a></li>
+<li class="toctree-l2"><a class="reference internal" href="members.html#ioannis-paraskevakos">Ioannis Paraskevakos</a></li>
+<li class="toctree-l2"><a class="reference internal" href="members.html#john-paden">John Paden</a></li>
+<li class="toctree-l2"><a class="reference internal" href="members.html#theresa-stumpf">Theresa Stumpf</a></li>
+<li class="toctree-l2"><a class="reference internal" href="members.html#maleq-khan">Maleq Khan</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="meetings.html">Meetings</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="meetings.html#dibbs-overall-emphasis">DIBBS Overall Emphasis</a></li>
+<li class="toctree-l2"><a class="reference internal" href="meetings.html#cresis-spidal">CReSIS SPIDAL</a></li>
+<li class="toctree-l2"><a class="reference internal" href="meetings.html#analytics-of-three-dimensional-pathology-imaging-data">Analytics of Three-Dimensional Pathology Imaging Data</a></li>
+<li class="toctree-l2"><a class="reference internal" href="meetings.html#computer-vision-meets-high-performance-computing">Computer Vision Meets High-Performance Computing</a></li>
+<li class="toctree-l2"><a class="reference internal" href="meetings.html#md-analysis">MD Analysis +</a></li>
+<li class="toctree-l2"><a class="reference internal" href="meetings.html#sparkgis">SparkGIS</a></li>
+<li class="toctree-l2"><a class="reference internal" href="meetings.html#cresis-polar">CRESIS Polar</a></li>
+<li class="toctree-l2"><a class="reference internal" href="meetings.html#d-surface-extraction-update">3D Surface Extraction update</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="spidal.html">Spidal</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="spidal.html#architecture">Architecture</a></li>
+<li class="toctree-l2"><a class="reference internal" href="spidal.html#spidal-kernels">Spidal Kernels</a></li>
+<li class="toctree-l2"><a class="reference internal" href="spidal.html#spidal-communities">SPIDAL Communities</a></li>
+</ul>
+</li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">MIDAS</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#midas-architecture">MIDAS Architecture</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#big-data-stack-hpc-abds"></a></li>
+<li class="toctree-l2"><a class="reference internal" href="#identifying-hpc-abds-software-stack">Identifying HPC-ABDS Software Stack</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#hpc-abds-cloud-supercomputer-stacks"></a></li>
+<li class="toctree-l2"><a class="reference internal" href="#batch-parallel-programming">Batch Parallel Programming</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#streaming-data">Streaming Data</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="research.html">Research</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="research.html#computational-biophysics-research-group">COMPUTATIONAL BIOPHYSICS RESEARCH GROUP</a></li>
+<li class="toctree-l2"><a class="reference internal" href="research.html#center-for-remote-sensing-of-ice-sheets">CENTER FOR REMOTE SENSING OF ICE SHEETS</a></li>
+<li class="toctree-l2"><a class="reference internal" href="research.html#harp-a-hadoop-plug-in">HARP: A HADOOP PLUG-IN</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="software.html">Software</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="software.html#cloudmesh-client">CLOUDMESH CLIENT</a></li>
+<li class="toctree-l2"><a class="reference internal" href="software.html#machine-learning">MACHINE LEARNING</a></li>
+<li class="toctree-l2"><a class="reference internal" href="software.html#spatial-data-analysis-library">SPATIAL DATA ANALYSIS LIBRARY</a></li>
+<li class="toctree-l2"><a class="reference internal" href="software.html#midas">MIDAS</a></li>
+<li class="toctree-l2"><a class="reference internal" href="software.html#cinet-a-cyber-infrastructure-for-network-science">CINET: A CYBER INFRASTRUCTURE FOR NETWORK SCIENCE</a></li>
+<li class="toctree-l2"><a class="reference internal" href="software.html#webplotviz-browser-based-visualization-tool">WebPlotViz: Browser based Visualization tool</a></li>
+<li class="toctree-l2"><a class="reference internal" href="software.html#mdanalysis">MDAnalysis</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="bib.html">Publications</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="bib.html#recent">Recent</a></li>
+<li class="toctree-l2"><a class="reference internal" href="bib.html#rutgers-university">Rutgers University</a></li>
+<li class="toctree-l2"><a class="reference internal" href="bib.html#stony-brook-university-and-emory-university">Stony Brook University and Emory University</a></li>
+<li class="toctree-l2"><a class="reference internal" href="bib.html#indiana-university">Indiana University</a></li>
+<li class="toctree-l2"><a class="reference internal" href="bib.html#university-of-kansas">University of Kansas</a></li>
+<li class="toctree-l2"><a class="reference internal" href="bib.html#arizona-state-university">Arizona State University</a></li>
+<li class="toctree-l2"><a class="reference internal" href="bib.html#virginia-polytechnic-institute-and-state-university">Virginia Polytechnic Institute and State University</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="about.html">Contributing</a></li>
+</ul>
+</ul>
+</li>
+              
+                <li class="dropdown">
+  <a role="button"
+     id="dLabelLocalToc"
+     data-toggle="dropdown"
+     data-target="#"
+     href="#">Page <b class="caret"></b></a>
+  <ul class="dropdown-menu localtoc"
+      role="menu"
+      aria-labelledby="dLabelLocalToc"><ul>
+<li><a class="reference internal" href="#">MIDAS</a><ul>
+<li><a class="reference internal" href="#midas-architecture">MIDAS Architecture</a></li>
+<li><a class="reference internal" href="#big-data-stack-hpc-abds"></a></li>
+<li><a class="reference internal" href="#identifying-hpc-abds-software-stack">Identifying HPC-ABDS Software Stack</a></li>
+<li><a class="reference internal" href="#hpc-abds-cloud-supercomputer-stacks"></a></li>
+<li><a class="reference internal" href="#batch-parallel-programming">Batch Parallel Programming</a></li>
+<li><a class="reference internal" href="#streaming-data">Streaming Data</a></li>
+</ul>
+</li>
+</ul>
+</ul>
+</li>
+              
+            
+            
+              
+                
+  <li>
+    <a href="spidal.html" title="Previous Chapter: Spidal"><span class="glyphicon glyphicon-chevron-left visible-sm"></span><span class="hidden-sm hidden-tablet">&laquo; Spidal</span>
+    </a>
+  </li>
+  <li>
+    <a href="research.html" title="Next Chapter: Research"><span class="glyphicon glyphicon-chevron-right visible-sm"></span><span class="hidden-sm hidden-tablet">Research &raquo;</span>
+    </a>
+  </li>
+              
+            
+            
+            
+            
+              <li class="hidden-sm">
+<div id="sourcelink">
+  <a href="_sources/midas.txt"
+     rel="nofollow">Source</a>
+</div></li>
+            
+          </ul>
+
+          
+            
+<form class="navbar-form navbar-right" action="search.html" method="get">
+ <div class="form-group">
+  <input type="text" name="q" class="form-control" placeholder="Search" />
+ </div>
+  <input type="hidden" name="check_keywords" value="yes" />
+  <input type="hidden" name="area" value="default" />
+</form>
+          
+        </div>
+    </div>
+  </div>
+
+<div class="container">
+  <div class="row">
+      <div class="col-md-3">
+        <div id="sidebar" class="bs-sidenav" role="complementary"><ul class="globaltoc"
+><ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="members.html">Members</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="members.html#geoffrey-fox">Geoffrey Fox</a></li>
+<li class="toctree-l2"><a class="reference internal" href="members.html#shantenu-jha">Shantenu Jha</a></li>
+<li class="toctree-l2"><a class="reference internal" href="members.html#gregor-von-laszewski">Gregor von Laszewski</a></li>
+<li class="toctree-l2"><a class="reference internal" href="members.html#judy-qiu">Judy Qiu</a></li>
+<li class="toctree-l2"><a class="reference internal" href="members.html#madhav-v-marathe">Madhav V. Marathe</a></li>
+<li class="toctree-l2"><a class="reference internal" href="members.html#david-crandall">David Crandall</a></li>
+<li class="toctree-l2"><a class="reference internal" href="members.html#oliver-beckstein">Oliver Beckstein</a></li>
+<li class="toctree-l2"><a class="reference internal" href="members.html#fusheng-wang">Fusheng Wang</a></li>
+<li class="toctree-l2"><a class="reference internal" href="members.html#jun-kong">Jun Kong</a></li>
+<li class="toctree-l2"><a class="reference internal" href="members.html#andre-luckow">Andre Luckow</a></li>
+<li class="toctree-l2"><a class="reference internal" href="members.html#ioannis-paraskevakos">Ioannis Paraskevakos</a></li>
+<li class="toctree-l2"><a class="reference internal" href="members.html#john-paden">John Paden</a></li>
+<li class="toctree-l2"><a class="reference internal" href="members.html#theresa-stumpf">Theresa Stumpf</a></li>
+<li class="toctree-l2"><a class="reference internal" href="members.html#maleq-khan">Maleq Khan</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="meetings.html">Meetings</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="meetings.html#dibbs-overall-emphasis">DIBBS Overall Emphasis</a></li>
+<li class="toctree-l2"><a class="reference internal" href="meetings.html#cresis-spidal">CReSIS SPIDAL</a></li>
+<li class="toctree-l2"><a class="reference internal" href="meetings.html#analytics-of-three-dimensional-pathology-imaging-data">Analytics of Three-Dimensional Pathology Imaging Data</a></li>
+<li class="toctree-l2"><a class="reference internal" href="meetings.html#computer-vision-meets-high-performance-computing">Computer Vision Meets High-Performance Computing</a></li>
+<li class="toctree-l2"><a class="reference internal" href="meetings.html#md-analysis">MD Analysis +</a></li>
+<li class="toctree-l2"><a class="reference internal" href="meetings.html#sparkgis">SparkGIS</a></li>
+<li class="toctree-l2"><a class="reference internal" href="meetings.html#cresis-polar">CRESIS Polar</a></li>
+<li class="toctree-l2"><a class="reference internal" href="meetings.html#d-surface-extraction-update">3D Surface Extraction update</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="spidal.html">Spidal</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="spidal.html#architecture">Architecture</a></li>
+<li class="toctree-l2"><a class="reference internal" href="spidal.html#spidal-kernels">Spidal Kernels</a></li>
+<li class="toctree-l2"><a class="reference internal" href="spidal.html#spidal-communities">SPIDAL Communities</a></li>
+</ul>
+</li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">MIDAS</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#midas-architecture">MIDAS Architecture</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#big-data-stack-hpc-abds"></a></li>
+<li class="toctree-l2"><a class="reference internal" href="#identifying-hpc-abds-software-stack">Identifying HPC-ABDS Software Stack</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#hpc-abds-cloud-supercomputer-stacks"></a></li>
+<li class="toctree-l2"><a class="reference internal" href="#batch-parallel-programming">Batch Parallel Programming</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#streaming-data">Streaming Data</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="research.html">Research</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="research.html#computational-biophysics-research-group">COMPUTATIONAL BIOPHYSICS RESEARCH GROUP</a></li>
+<li class="toctree-l2"><a class="reference internal" href="research.html#center-for-remote-sensing-of-ice-sheets">CENTER FOR REMOTE SENSING OF ICE SHEETS</a></li>
+<li class="toctree-l2"><a class="reference internal" href="research.html#harp-a-hadoop-plug-in">HARP: A HADOOP PLUG-IN</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="software.html">Software</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="software.html#cloudmesh-client">CLOUDMESH CLIENT</a></li>
+<li class="toctree-l2"><a class="reference internal" href="software.html#machine-learning">MACHINE LEARNING</a></li>
+<li class="toctree-l2"><a class="reference internal" href="software.html#spatial-data-analysis-library">SPATIAL DATA ANALYSIS LIBRARY</a></li>
+<li class="toctree-l2"><a class="reference internal" href="software.html#midas">MIDAS</a></li>
+<li class="toctree-l2"><a class="reference internal" href="software.html#cinet-a-cyber-infrastructure-for-network-science">CINET: A CYBER INFRASTRUCTURE FOR NETWORK SCIENCE</a></li>
+<li class="toctree-l2"><a class="reference internal" href="software.html#webplotviz-browser-based-visualization-tool">WebPlotViz: Browser based Visualization tool</a></li>
+<li class="toctree-l2"><a class="reference internal" href="software.html#mdanalysis">MDAnalysis</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="bib.html">Publications</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="bib.html#recent">Recent</a></li>
+<li class="toctree-l2"><a class="reference internal" href="bib.html#rutgers-university">Rutgers University</a></li>
+<li class="toctree-l2"><a class="reference internal" href="bib.html#stony-brook-university-and-emory-university">Stony Brook University and Emory University</a></li>
+<li class="toctree-l2"><a class="reference internal" href="bib.html#indiana-university">Indiana University</a></li>
+<li class="toctree-l2"><a class="reference internal" href="bib.html#university-of-kansas">University of Kansas</a></li>
+<li class="toctree-l2"><a class="reference internal" href="bib.html#arizona-state-university">Arizona State University</a></li>
+<li class="toctree-l2"><a class="reference internal" href="bib.html#virginia-polytechnic-institute-and-state-university">Virginia Polytechnic Institute and State University</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="about.html">Contributing</a></li>
+</ul>
+
+</ul>
+
+<form action="search.html" method="get">
+ <div class="form-group">
+  <input type="text" name="q" class="form-control" placeholder="Search" />
+ </div>
+  <input type="hidden" name="check_keywords" value="yes" />
+  <input type="hidden" name="area" value="default" />
+</form>
+        </div>
+      </div>
+    <div class="col-md-9 content">
+      
+  <div class="section" id="midas">
+<h1>MIDAS<a class="headerlink" href="#midas" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="midas-architecture">
+<h2>MIDAS Architecture<a class="headerlink" href="#midas-architecture" title="Permalink to this headline">¶</a></h2>
+<p>It is our goal to study major software components relevant for Big Data
+from both HPC and commodity Big Data processing. At 10 zettabytes, the
+total commodity Big Data is far larger than science data (with LHC
+analysis at “just” 100 petabytes) and has motivated the development of
+much high quality software which we collectively term ABDS – Apache Big
+Data Stack. As HPC has a leadership position in some areas – especially
+those associated with performance – we suggest a need to merge software
+systems giving. The result is what we call HPC-ABDS software stack,
+which currently has over 300 entries arranged into 21 “layers” including
+those where HPC and ABDS have important integration issues identified.
+The recent announcements [need a citation] that HPC is essential for
+deep learning have supported these ideas. Interoperation of cloud,
+supercomputer, multicore, GPU, and Xeon Phi systems is clearly
+important.</p>
+</div>
+<div class="section" id="big-data-stack-hpc-abds">
+<h2><img alt="Big Data Stack HPC-ABDS" src="_images/bsat.jpg" /><a class="headerlink" href="#big-data-stack-hpc-abds" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="identifying-hpc-abds-software-stack">
+<h2>Identifying HPC-ABDS Software Stack<a class="headerlink" href="#identifying-hpc-abds-software-stack" title="Permalink to this headline">¶</a></h2>
+<p>The image below gives a comparison of typical cloud and supercomputer
+software layered stacks.</p>
+</div>
+<div class="section" id="hpc-abds-cloud-supercomputer-stacks">
+<h2><img alt="HPC-ABDS Cloud/Supercomputer Stacks" src="_images/integrate.jpg" /><a class="headerlink" href="#hpc-abds-cloud-supercomputer-stacks" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li>Research paper <a class="reference external" href="http://hpc-abds.org/kaleidoscope/">here</a>.</li>
+<li>Research paper
+<a class="reference external" href="http://grids.ucs.indiana.edu/ptliupages/publications/nist-hpc-abds.pdf">here</a>.</li>
+<li>Research paper <a class="reference external" href="http://arxiv.org/abs/1403.1528">here</a>.</li>
+<li>Research paper
+<a class="reference external" href="http://www.exascale.org/bdec/sites/www.exascale.org.bdec/files/whitepapers/fox.pdf">here</a>.</li>
+<li>Research paper
+<a class="reference external" href="http://dsc.soic.indiana.edu/publications/HPC-ABDSDescribedv2.pdf">here</a>.</li>
+</ul>
+<p>HPC-ABDS Further/Ongoing work:</p>
+<ol class="arabic simple">
+<li>Continue development of online Class</li>
+<li>Develop a set of examples of HPC-ABDS for benchmark and tutorial
+purposes. Specify with DevOps technologies (Ansible, Heat)</li>
+<li>Relate DevOps specified examples to NIST Big Data Reference
+Architecture (Interest of NIST Public working group)</li>
+</ol>
+</div>
+<div class="section" id="batch-parallel-programming">
+<h2>Batch Parallel Programming<a class="headerlink" href="#batch-parallel-programming" title="Permalink to this headline">¶</a></h2>
+<p>This section covers the integration of Hadoop into the Pilot Jobs
+framework (<a class="reference external" href="http://arxiv.org/abs/1501.05041">link</a>) more details of
+which can be found in the <a class="reference external" href="http://dsc-spidal.github.io/www/software.html">Software</a> page, and the
+Harp scientific (high performance) plug-in for Hadoop which benchmarks
+GML5
+(<a class="reference external" href="http://grids.ucs.indiana.edu/ptliupages/publications/HarpQiuZhang.pdf">link</a>).</p>
+</div>
+<div class="section" id="streaming-data">
+<h2>Streaming Data<a class="headerlink" href="#streaming-data" title="Permalink to this headline">¶</a></h2>
+<p>The following diagram illustrates the Apache Storm method of processing
+data from the Internet of Things (IoT).</p>
+<p><img alt="Big Data Stack HPC-ABDS" src="_images/bsat.jpg" /></p>
+<ul class="simple">
+<li>Research paper
+<a class="reference external" href="http://dsc.soic.indiana.edu/publications/iotcloud_hindavi_two_column_final_2.docx">here</a>.</li>
+<li>Research paper
+<a class="reference external" href="http://dsc.soic.indiana.edu/publications/Xiaoming%20Gao%20Thesis%20v5.pdf">here</a>.</li>
+<li>Research paper
+<a class="reference external" href="http://dsc.soic.indiana.edu/publications/intelligent_iot_cloud_controller.pdf">here</a>.</li>
+<li>Research paper
+<a class="reference external" href="http://dsc.soic.indiana.edu/publications/Parallel%20Clustering%20of%20High-Dimensional%20Social%20Media%20Data%20Streams_v11.pdf">here</a>.</li>
+</ul>
+<p>MIDAS Ongoing Work</p>
+<ol class="arabic simple">
+<li>Apply Storm-RabbitMQ to Robotics</li>
+<li>Improve Storm to add quality of service and support of parallel
+computing</li>
+<li>Extend Tweet clustering to use Harp</li>
+<li>Look at further examples of Harp</li>
+<li>Integrate Pilot Jobs with Streaming and Harp</li>
+<li>Support GPU and Xeon Phi</li>
+</ol>
+</div>
+</div>
+
+
+    </div>
+      
+  </div>
+</div>
+<footer class="footer">
+  <div class="container">
+    <p class="pull-right">
+      <a href="#">Back to top</a>
+      
+    </p>
+    <p>
+        &copy; Copyright 2016, DSC.<br/>
+      Created using <a href="http://sphinx-doc.org/">Sphinx</a> 1.4.1.<br/>
+    </p>
+  </div>
+</footer>
+  </body>
+<<<<<<< HEAD
+</html>
+=======
+
