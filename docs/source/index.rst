@@ -44,6 +44,7 @@ Contents:
    research
    software
    bib
+   reu
    about
 
 
