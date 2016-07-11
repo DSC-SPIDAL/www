@@ -36,7 +36,8 @@ Contents:
 
 .. toctree::
    :maxdepth: 1
-
+	      
+   news
    members
    meetings
    spidal
