@@ -12,7 +12,7 @@ BROWSER=/cygdrive/c/Program\ Files\ \(x86\)/Google/Chrome/Application/chrome.exe
 endif
 
 doc: 
-	cd docs; make html
+	cd docs; $(MAKE) html
 
 publish:
 	ghp-import -n -p docs/build/html
