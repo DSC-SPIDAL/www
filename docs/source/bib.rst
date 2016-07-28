@@ -18,6 +18,14 @@ Recent
 Rutgers University
 ------------------
 
+#. Hadoop on HPC: Integrating Hadoop and Pilot-based Dynamic Resource
+   Management Andre Luckow, Ioannis Paraskevakos, George
+   Chantzialexiou, Shantenu Jha Workshop on High-Performance Big Data
+   Computing, 2016 [`link <http://arxiv.org/abs/1602.00345>`_] [`bib
+   <https://www.github.com/saga-project/radical.wp/raw/master/publications/bib/hadoop-on-hpc.bib>`_]
+   : hadoop-on-hpc `http://arxiv.org/abs/1602.00345
+   <http://arxiv.org/abs/1602.00345>`_
+
 #. Pilot-Abstraction: A Valid Abstraction for Data-Intensive Application
    on HPC, Hadoop and Cloud Infrastructures?, Andre Luckow,
    Pradeep Mantha, Shantenu Jha pdf version
@@ -30,6 +38,38 @@ Rutgers University
 
 Stony Brook University and Emory University
 -------------------------------------------
+
+#. Ablimit Aji and Fusheng Wang (2016). `Challenges and Approaches in
+   Spatial Big Data Management 
+   <http://www.crcnetbase.com/doi/abs/10.1201/b19694-3>`_. Big Data:
+   Storage, Sharing, and Security (3S) Fei Hu.  Auerbach Publications.
+
+#. Cong Xie, Wen Zhong， Jun Kong , Wei Xu, Klaus Mueller, and Fusheng
+   Wang (2016). IEVQ: An Iterative Example-based Visual Query for
+   Pathology Database.  Proceedings of the Second International
+   Workshop on Data Management and Analytics for Medicine and
+   Healthcare.
+
+#. Hoang Vo, Jun Kong, Dejun Teng, Yanhui Liang, Ablimit Aji, George
+   Teodoro and Fusheng Wang (2016). A MapReduce Based High Performance
+   Whole Slide Image Analysis Framework in the Cloud.  Proceedings of
+   the Second International Workshop on Data Management and Analytics
+   for Medicine and Healthcare.
+
+#. Jun Kong, Pengyue Zhang, Yanhui Liang, George Teodorou,
+   Daniel J. Brat and Fusheng Wang (2016). `Robust Cell Segmentation
+   for Histological Images of Glioblastoma
+   <http://ieeexplore.ieee.org/Xplore/defdeny.jsp?url=http%3A%2F%2Fieeexplore.ieee.org%2Fstamp%2Fstamp.jsp%3Ftp%3D%26arnumber%3D7493444&denyReason=-134&arnumber=7493444&productsMatched=null&userType=inst>`_.
+   International Symposium on Biomedical Imaging (ISBI 2016).
+
+#. Xin Chen and Fusheng Wang (). Integrative Spatial Data Analytics
+   for Public Health Studies of New York State.  Proceedings of AMIA
+   2016 Annual Symposium.
+
+#. Yanhui Liang, Jun Kong, Yangyang Zhu and Fusheng Wang
+   (2016). Three-Dimensional Data Analytics for Pathology Imaging.
+   First International Workshop on Data Management and Analytics for
+   Medicine and Healthcare (DMAH 2015).
 
 #. Liver Whole Slide Image Analysis for 3D Vessel
    Reconstruction. Y. Liang, F. Wang, D. Treanor, D. Magee, G. Teodoro, Y. Zhu,
@@ -181,6 +221,11 @@ Indiana University
 University of Kansas
 --------------------
 
+#. John Paden, Theresa Stumpf, Wideband DOA Estimation for Ice Sheet
+   Bed Mapping, Paper#: 101, 2016 IEEE International Symposium on
+   Phased Array Systems & Technology, 18-21 October 2016
+   Massachusetts, USA.
+
 #. Radiostratigraphy and age structure of the Greenland Ice
    Sheet. MacGregor, J.A.  M.A. Fahnestock, G.A. Catania, J.D. Paden,
    S. Gogineni, S.C. Rybarski, S.K. Young, A.N. Mabrey, B.M. Wagman and
@@ -235,6 +280,19 @@ Arizona State University
 
 Virginia Polytechnic Institute and State University
 ---------------------------------------------------
+
+#. Alam M, Khan M, Vullikanti A, Marathe M (2016) An Efficient and
+   Scalable Algorithmic Method for Generating Large–Scale Random
+   Graphs. In Proceedings of the The International Conference for High
+   Performance Computing, Networking, Storage and Analysis. Salt Lake
+   City, UT, November 13-18, 2016
+
+#. Arifuzzaman S, Khan M, Marathe M (2015) `A Space-efficient Parallel
+   Algorithm for Counting Exact Triangles in Massive Networks
+   <https://ndssl.vbi.vt.edu/cms/ViewItem.php?id=70042831-53a3-9994-ed6c-3bff503f23b2>`_. In
+   Proceedings of the 17th IEEE International Conference on High
+   Performance Computing and Communications.  New York City, NY,
+   August 24-26
 
 #. Parallel Algorithms for Generating Random Networks with Given Degree
    Sequences.  Maksudul Alam and Maleq Khan. 12th IFIP
