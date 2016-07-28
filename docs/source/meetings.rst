@@ -40,7 +40,6 @@ Analytics of Three-Dimensional Pathology Imaging Data
 * Date: 7/24/2015
 * pdf slides `here <http://media.spidal.org/Videos/slides_Jul24_2015.pdf>`__.
 * `video <http://media.spidal.org/Videos/Kong_7_24_2015/Kong_7_24_2015_player.html>`_
-* `video <http://media.spidal.org/Videos/Kong_7_24_2015/Kong_7_24_2015.mp4>`_
 
 
 Computer Vision Meets High-Performance Computing
@@ -49,6 +48,7 @@ Computer Vision Meets High-Performance Computing
 * Presenter: David Crandall, Indiana University
 * Date: 8/14/2015
 * `slides <http://media.spidal.org/vision-dibbs2.pdf>`__
+* `video <http://media.spidal.org/new-dibbs.mp4>`_
 
 
 MD Analysis +
@@ -57,21 +57,20 @@ MD Analysis +
 * Presenter: Oliver Beckstein, Arizona State University
 * Date: 8/30/2015
 * pdf slides `here <http://media.spidal.org/Videos/SPIDAL_Beckstein_2015.pdf>`__
-* `video <http://media.spidal.org/new-dibbs.mp4>`_
+* `video <http://media.spidal.org/SPIDAL_Bi_Weekly_20151030.mp4>`_
 
 SparkGIS
 ----------------------------------------------------------
 * Presenter: Furqan Baig, Stony Brook University
 * Date: 02/05/2016
 * PowerPoint slides `here <http://media.spidal.org/SparkGIS%20-%20SPIDAL.pptx>`__
-* `video <http://media.spidal.org/SPIDAL_Bi_Weekly_20151030.mp4>`_
+* `video <http://media.spidal.org/SPIDAL_BiWeekly_Call_20160205.mp4>`_
 
 CRESIS Polar
 -------------------------------------------------------
 * Presenter: John Paden, University of Kansas
 * Date: 03/25/2016
 * PowerPoint slides `here <http://media.spidal.org/CReSIS-POLAR_spidal_20160325.pptx>`__
-* `video <http://media.spidal.org/SPIDAL_BiWeekly_Call_20160205.mp4>`_
 
 3D Surface Extraction update
 ---------------------------------------------------------
