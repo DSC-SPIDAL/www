@@ -5,6 +5,15 @@ For more information on SPIDAL's efforts to promote Research Experiences
 for Undergraduates, visit the Digital Science Center
 `website <http://www.spidal.org/reu>`__.
 
+
+Launch of Intelligent Systems Engineering - Fall 2016
+-----------------------------------------------------
+Indiana University has recently launched its new Intelligent Systems
+Engineering program, offering undergraduate and PhD degrees within the
+School of Informatics and Computing! See `this video
+<https://youtu.be/XFxZOC4eGPU>`_ for more details.
+
+
 $450,000 Navy grant fuels IU-NSWC Crane effort
 ----------------------------------------------
 An Indiana University expert in the high-tech field of computer vision
