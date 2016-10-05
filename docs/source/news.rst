@@ -5,6 +5,10 @@ For more information on SPIDAL's efforts to promote Research Experiences
 for Undergraduates, visit the Digital Science Center
 `website <http://www.spidal.org/reu>`__.
 
+SPIDAL Project on ResearchGate
+------------------------------
+`SPIDAL: CIF21 DIBBs: Middleware and High Performance Analytics
+Libraries for Scalable Data Science <https://www.researchgate.net/project/SPIDAL-CIF21-DIBBs-Middleware-and-High-Performance-Analytics-Libraries-for-Scalable-Data-Science>`_
 
 Launch of Intelligent Systems Engineering - Fall 2016
 -----------------------------------------------------
