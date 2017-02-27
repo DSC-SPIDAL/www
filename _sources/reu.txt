@@ -38,10 +38,10 @@ REU2016
   July 31 2016. `poster
   <https://www.dsc.soic.indiana.edu/file/275/download?token=Y2fCdM-Y>`__.
 
-- Sean Olejaar "`Extending MIDAS to Support Integrated Simulation and
+- Sean Olejar, Rutgers University. "`Extending MIDAS to Support Integrated Simulation and
   Analysis <https://www.dsc.soic.indiana.edu/node/388>`__" July 2016.
 
-- Anastasis Stathopolous "`Integrating Image Segmentation Algorithms
+- Anastasis Stathopolous , Rutgers University. "`Integrating Image Segmentation Algorithms
   with MIDAS <https://www.dsc.soic.indiana.edu/node/387>`__"
   July 2016.
 
