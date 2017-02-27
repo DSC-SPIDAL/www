@@ -1,3 +1,15 @@
+REU Students from ECSU Program at Digital Science Center
+========================================================
+
+- 2016  `http://nia.ecsu.edu/reuomps2016/teams-iu.html <http://nia.ecsu.edu/reuomps2016/teams-iu.html>`__ (4 students)
+- 2015  `http://nia.ecsu.edu/reuomps2015/teams-iu.html <http://nia.ecsu.edu/reuomps2015/teams-iu.html>`__ (5 students)
+- 2014  `http://nia.ecsu.edu/reuomps2014/teams-iu.html <http://nia.ecsu.edu/reuomps2014/teams-iu.html>`__ (6 students)
+- 2013  `http://nia.ecsu.edu/reuomps2013/teams-iu.html <http://nia.ecsu.edu/reuomps2013/teams-iu.html>`__ (6 students)
+- 2012  `http://nia.ecsu.edu/reuomps2012/teams-iu.html <http://nia.ecsu.edu/reuomps2012/teams-iu.html>`__ (3 students)
+- 2011  `http://nia.ecsu.edu/ureomps2011/iu_teams.html <http://nia.ecsu.edu/ureomps2011/iu_teams.html>`__ (11 students)
+- 2010  `http://nia.ecsu.edu/ureomps2010/iu_teams.html <http://nia.ecsu.edu/ureomps2010/iu_teams.html>`__ (6 students)
+
+
 REU2016
 =======
 
