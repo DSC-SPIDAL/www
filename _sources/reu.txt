@@ -1,3 +1,39 @@
+REU2016
+=======
+
+- James Fox, Yiming Zou, Judy Qiu "`Software Frameworks for Deep
+  Learning at Scale
+  <http://dsc.soic.indiana.edu/publications/DLFrameworks.pdf>`__" with
+  summary "`RaPyDLI Deep Learning Framework
+  <http://dsc.soic.indiana.edu/publications/RaPyDLIReport2016Summary.pdf>`__"
+  Internal Indiana University Technical Report July 29 2016.
+
+- Delgado, Robert; Beckstein, Oliver (2016): Technical Report: SPIDAL
+  Summer REU 2016: `Distance Array and RMSD Speed-Up in MDAnalysis
+  <https://www.dsc.soic.indiana.edu/sites/default/files/reu2016paper1Delgado.pdf>`__.
+  figshare. `https://dx.doi.org/10.6084/m9.figshare.3823293.v1
+  <https://dx.doi.org/10.6084/m9.figshare.3823293.v1>`__
+
+- Hagen Hodgkins, Badi' Abdul-Wahid, Gregor von Laszewski "`Deploying
+  Big Data and Development Environments Using Ansible
+  <https://www.dsc.soic.indiana.edu/sites/default/files/reu2016-hagen.pdf>`__"
+  Internal Indiana University Technical Report July 31 2016. `poster
+  <https://www.dsc.soic.indiana.edu/file/272/download?token=_jCoc1M2>`__.
+
+- Tangee Beverly, Gregor von Laszewski, Supun Kamburugamuve, Pulasthi
+  Wickramasinghe, Geoffrey Fox "`Game Development with Big Data
+  <https://www.dsc.soic.indiana.edu/sites/default/files/reu2016-game.pdf>`__"
+  July 31 2016. `poster
+  <https://www.dsc.soic.indiana.edu/file/275/download?token=Y2fCdM-Y>`__.
+
+- Sean Olejaar "`Extending MIDAS to Support Integrated Simulation and
+  Analysis <https://www.dsc.soic.indiana.edu/node/388>`__" July 2016.
+
+- Anastasis Stathopolous "`Integrating Image Segmentation Algorithms
+  with MIDAS <https://www.dsc.soic.indiana.edu/node/387>`__"
+  July 2016.
+
+
 REU2015
 =======
 
