@@ -8,6 +8,70 @@ videos are included below along with corresponding slides from the
 presentation. The initial presentation in December 2014 was updated with
 video in June 2015.
 
+Scalable High Performance Data Analytics
+----------------------------------------------------------
+* Presenter: Judy Qiu, Indiana University
+* Date: 06/23/2017
+* PDF slides `here <http://media.spidal.org/Qiu_Analytics_DIBBS_June_23_2017.pdf>`__
+
+
+Python in HPC, IDEAS Webinar
+----------------------------------------------------------
+* Presenter: Saliya Ekanayake, Virginia Tech
+* Date: 06/16/2017
+* PDF slides `here <http://media.spidal.org/IDEAS-Python-in-HPC-Thomas-Scullin-Belhorn.pdf>`__
+
+
+Analytical 3D Digital Pathology
+----------------------------------------------------------
+* Presenter: Fusheng Wang, Stony Brook University
+* Date: 05/26/2017
+* PDF slides `here <http://media.spidal.org/3DDigitalPathology.pdf>`__
+
+
+SparkGIS
+----------------------------------------------------------
+* Presenter: Furqan Baig, Stony Brook University
+* Date: 02/05/2016
+* PowerPoint slides `here <http://media.spidal.org/SparkGIS%20-%20SPIDAL.pptx>`__
+* `video <http://media.spidal.org/SPIDAL_BiWeekly_Call_20160205.mp4>`_
+
+
+MD Analysis +
+----------------------------------------------------------------
+
+* Presenter: Oliver Beckstein, Arizona State University
+* Date: 8/30/2015
+* pdf slides `here <http://media.spidal.org/Videos/SPIDAL_Beckstein_2015.pdf>`__
+* `video <http://media.spidal.org/SPIDAL_Bi_Weekly_20151030.mp4>`_
+
+
+Computer Vision Meets High-Performance Computing
+-----------------------------------------------------------------------------
+
+* Presenter: David Crandall, Indiana University
+* Date: 8/14/2015
+* `slides <http://media.spidal.org/vision-dibbs2.pdf>`__
+* `video <http://media.spidal.org/new-dibbs.mp4>`_
+
+
+Analytics of Three-Dimensional Pathology Imaging Data
+--------------------------------------------------------------------------
+
+* Presenter: Jun Kong, Emory University
+* Date: 7/24/2015
+* pdf slides `here <http://media.spidal.org/Videos/slides_Jul24_2015.pdf>`__.
+* `video <http://media.spidal.org/Videos/Kong_7_24_2015/Kong_7_24_2015_player.html>`_
+
+
+CReSIS SPIDAL
+------------------------------------------------------
+* Presenter: John Paden, University of Kansas
+* 6/26/2015
+* Powerpoint slides `here <http://media.spidal.org/Videos/CReSIS-POLAR_spidal_20150626.pptx>`__.
+* `Video <http://salsaproj.indiana.edu/DIBBS/Videos/Paden_6_26_2015/Paden_6_26_2015_player.html>`_
+
+  
 DIBBS Overall Emphasis
 ------------------------------------------------------
 
@@ -26,51 +90,13 @@ DIBBS Overall Emphasis
      for Data-intensive Analysis and Science (MIDAS)", 5/15/2015,
      `ppt <http://media.spidal.org/Videos/MIDAS-RADICAL.pptx>`__
 
-CReSIS SPIDAL
-------------------------------------------------------
-* Presenter: John Paden, University of Kansas
-* 6/26/2015
-* Powerpoint slides `here <http://media.spidal.org/Videos/CReSIS-POLAR_spidal_20150626.pptx>`__.
-* `Video <http://salsaproj.indiana.edu/DIBBS/Videos/Paden_6_26_2015/Paden_6_26_2015_player.html>`_
-
-Analytics of Three-Dimensional Pathology Imaging Data
---------------------------------------------------------------------------
-
-* Presenter: Jun Kong, Emory University
-* Date: 7/24/2015
-* pdf slides `here <http://media.spidal.org/Videos/slides_Jul24_2015.pdf>`__.
-* `video <http://media.spidal.org/Videos/Kong_7_24_2015/Kong_7_24_2015_player.html>`_
-
-
-Computer Vision Meets High-Performance Computing
------------------------------------------------------------------------------
-
-* Presenter: David Crandall, Indiana University
-* Date: 8/14/2015
-* `slides <http://media.spidal.org/vision-dibbs2.pdf>`__
-* `video <http://media.spidal.org/new-dibbs.mp4>`_
-
-
-MD Analysis +
-----------------------------------------------------------------
-
-* Presenter: Oliver Beckstein, Arizona State University
-* Date: 8/30/2015
-* pdf slides `here <http://media.spidal.org/Videos/SPIDAL_Beckstein_2015.pdf>`__
-* `video <http://media.spidal.org/SPIDAL_Bi_Weekly_20151030.mp4>`_
-
-SparkGIS
-----------------------------------------------------------
-* Presenter: Furqan Baig, Stony Brook University
-* Date: 02/05/2016
-* PowerPoint slides `here <http://media.spidal.org/SparkGIS%20-%20SPIDAL.pptx>`__
-* `video <http://media.spidal.org/SPIDAL_BiWeekly_Call_20160205.mp4>`_
 
 CRESIS Polar
 -------------------------------------------------------
 * Presenter: John Paden, University of Kansas
 * Date: 03/25/2016
 * PowerPoint slides `here <http://media.spidal.org/CReSIS-POLAR_spidal_20160325.pptx>`__
+
 
 3D Surface Extraction update
 ---------------------------------------------------------
